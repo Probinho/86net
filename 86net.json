@@ -1,5 +1,5 @@
 {
-    "Version": 15,
+    "Version": 16,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v15",
+            "Name": "86Net v16",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -107,7 +107,7 @@
             "Info": "Proxy"
          },
          {
-             "Name": "??VIVO SECURITY 07",
+             "Name": "VIVO SECURITY 07",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: 209.14.84.31[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "[app_host]",
