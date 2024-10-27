@@ -1,8 +1,8 @@
 {
     "Version": 2,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
-    "Sms": "https://conecta4g.hgnetplus.cloud//update/5/sms",
-    "UrlUpdate": "https://www.dropbox.com/scl/fi/bdgyhkyka1var3yoahuz5/meu-app-just-family-meu-app.txt?rlkey=qrvs9sls164d55l39gq6igvnv&dl=1",
+    "Sms": "",
+    "UrlUpdate": "https://probinho.github.io/86net/86net.json",
     "EmailFeedback": "cleber2006x@gmail.com",
     "UrlContato": "",
     "UrlTermos": "",
@@ -517,4 +517,4 @@
             "Info": "Ssl"
         }
     ]
-}
+        }
