@@ -1,5 +1,5 @@
 {
-    "Version": 17,
+    "Version": 18,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v17",
+            "Name": "86Net v18",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -187,16 +187,6 @@
             "Info": "Proxy"
         },
         {
-            "Name": "VIVO EXPIRADO",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:[rotate= b.avclaro.com.br;209.14.2.36][crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "45.140.192.126",
-            "TlsIP": "45.140.192.126",
-            "ProxyIP": "45.140.192.126",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-         },
-         {
             "Name": "VIVO PRE  8",
             "FLAG": "vivo",
             "Payload": "UNLOCK HTTP/1.0 Host: www.microsoft.com/ HTTP/1.0n n ",
@@ -237,6 +227,16 @@
             "Info": "Proxy"
         },
         {
+            "Name": "VIVO EXPIRADO",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host:[rotate= b.avclaro.com.br;209.14.2.36][crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "45.140.192.126",
+            "TlsIP": "45.140.192.126",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+         },
+         {
             "Name": "",
             "FLAG": "",
             "Payload": "",
