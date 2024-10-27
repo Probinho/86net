@@ -1,5 +1,5 @@
 {
-    "Version": 14,
+    "Version": 15,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v14",
+            "Name": "86Net v15",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -47,6 +47,76 @@
             "Info": ""
         },
         {
+            "Name": "VIVO SECURITY 01",
+      "FLAG": "vivo",
+      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]",
+      "SNI": "45.140.192.126",
+      "TlsIP": "45.140.192.126",
+      "ProxyIP": "45.140.192.126",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+         },
+         {
+            "Name": "VIVO SECURITY 02",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]GET http://m.clarosync.com/ HTTP/1.1 Host: http://m.clarosync.com/User-Agent: YesConnection: closeProxy-Connection: Keep-Alive[crlf][crlf][netData][crlf] [crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "45.140.192.126",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+         },
+         {
+             "Name": "VIVO SECURITY 03",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]GET http://d1n212ccp6ldpw.cloudfront.net HTTP/1.1\n\r\n\r\nCONNECT 127.0.0.1:443HTTP/1.0X-Online-Host: http://download-this-pl.info/124BR/MP.html \r\n\r\n",
+            "SNI": "[app_host]",
+            "TlsIP": "45.140.192.126",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+         },
+         {
+             "Name": "VIVO SECURITY 04",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]CONNECT [host_port]<font GET http://portalrecarga.vivo.com.br/recarga/home/187.8.166.33 [protocol][lf][split]CONNECT 187.8.166.33 CONNECT [host_port]149.56.42.236 HTTP/1.1[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "45.140.192.126",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+         },
+         {
+             "Name": "VIVO SECURITY 05",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL HTTP/1.1[crlf]Host: community-dashbird.buzzfeed.com[crlf]X-Online-Host: [app_host][crlf]Connection:l llbj� Keep-Alive[crlf]User-Agent: [ua][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "45.140.192.126",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+         },
+         {
+              "Name": "VIVO SECURITY 06",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL /revive.vivointernetgratis.com.br HTTP/1.1][lf]",
+            "SNI": "[app_host]",
+            "TlsIP": "45.140.192.126",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+         },
+         {
+             "Name": "??VIVO SECURITY 07",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL AtlasN42/ HTTP/1.1[crlf]Host: 209.14.84.31[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "45.140.192.126",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+         },
+         {
             "Name": "VIVO PRE 1",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: unpkg.com[crlf]Upgrade: websocket[crlf][crlf]",
