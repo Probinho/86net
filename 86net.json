@@ -1,5 +1,5 @@
 {
-    "Version": 10,
+    "Version": 11,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v10",
+            "Name": "86Net v11",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -167,7 +167,14 @@
             "Info": ""
         },
         {
-            OPÇÕES VÁLIDO 
+            "Name": "🔵TIM VÁLIDO",
+            "FLAG": "null",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": ""
         },
         {
             "Name": "TIM 86Net VÁLIDO BR 01",
@@ -220,7 +227,14 @@
             "Info": "Proxy"
         },
         {
-           OPÇÕES EXPIRADO
+            "Name": "🔵TIM EXPIRADO",
+            "FLAG": "null",
+            "Payload": "",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "",
+            "ProxyPort": "",
+            "Info": ""
         },
         {
              "Name": "??Tim Expirado 01??",
