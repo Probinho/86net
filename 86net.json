@@ -1,5 +1,5 @@
 {
-    "Version": 19,
+    "Version": 20,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v19",
+            "Name": "86Net v20",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -229,7 +229,7 @@
         {
             "Name": "VIVO EXPIRADO",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host:[rotate= 86.shop;209.14.2.36][crlf]Upgrade: websocket[crlf][crlf]",
+            "Payload": "GET / HTTP/1.1[crlf]Host:[rotate= 86.shop;45.140.192.126][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "45.140.192.126",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
