@@ -1,5 +1,5 @@
 {
-    "Version": 33,
+    "Version": 34,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v33",
+            "Name": "86Net v34",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -257,7 +257,7 @@
             "Info": "Proxy"
         },
         {
-        "Name": "🔵TIM VÁLIDO TODOS DDD BR ",
+            "Name": "🔵TIM VÁLIDO TODOS DDD BR ",
             "FLAG": "tim",
             "Payload": "PATCH  / HTTP/1.1[crlf]Host: [rotate= a.86net.shop;checkout.timlive.tim.com.br;timlive.tim.com.br;www.timlive.tim.com.br;www2.timlive.tim.com.br][crlf] [crlf]",
             "SNI": "",
@@ -265,6 +265,8 @@
             "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
+        },
+        {
         
             "Name": "TIM 86Net VÁLIDO BR 01",
             "FLAG": "tim",
