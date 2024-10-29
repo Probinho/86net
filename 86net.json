@@ -1,5 +1,5 @@
 {
-    "Version": 35,
+    "Version": 36,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v35",
+            "Name": "86Net v36",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -258,6 +258,16 @@
         },
         {
             "Name": "TIM VÁLIDO INTERNO ",
+            "FLAG": "tim",
+            "Payload": "ACL /wss.html HTTP/1.1[lf]Host: [rotate=a.86net.shop][lf]Expect: 100-tmyvpn[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "172.64.154.143",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": " TIM VÁLIDO DDD 21,31,61,62",
             "FLAG": "tim",
             "Payload": "ACL /wss.html HTTP/1.1[lf]Host: [rotate=a.86net.shop][lf]Expect: 100-tmyvpn[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
             "SNI": "",
