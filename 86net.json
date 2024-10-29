@@ -1,5 +1,5 @@
 {
-    "Version": 29,
+    "Version": 30,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v29",
+            "Name": "86Net v30",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -327,7 +327,7 @@
             "ProxyPort": "80",
             "Info": "Proxy"
        },
-{
+       {
             "Name": "??Tim Expirado 02??",
             "FLAG": "tim",
             "Payload": "HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;xvideos.com;blaze-1.com;glink.net.br-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n",
