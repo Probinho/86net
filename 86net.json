@@ -1,5 +1,5 @@
 {
-    "Version": 49,
+    "Version": 50,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v49",
+            "Name": "86Net v50",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -329,7 +329,7 @@
         {
             "Name": "??🔵Tim Expirado??",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
+            "Payload": "HTTP/ [crlf][crlf]|[crlf]]]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "45.140.192.126",
@@ -337,9 +337,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "??Tim Expirado 01??",
+            "Name": "TIM EXPIRADO NOVO",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
+            "Payload": "HTTP/ [crlf][crlf]|[crlf]]]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "45.140.192.126",
@@ -347,7 +347,7 @@
             "Info": "Proxy"
        },
        {
-            "Name": "??Tim Expirado 02??",
+            "Name": "TIM EXPIRADO NOVO 1",
             "FLAG": "tim",
             "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
             "SNI": "",
@@ -357,9 +357,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "??Tim Expirado 03??",
+            "Name": "Tim EXPIRADO NOVO 2",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
+            "Payload": "HTTP/ [crlf][crlf]|[crlf]]]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "45.140.192.126",
