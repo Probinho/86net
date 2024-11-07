@@ -1,5 +1,5 @@
 {
-    "Version": 46,
+    "Version": 47,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v46",
+            "Name": "86Net v47",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -245,46 +245,6 @@
             "ProxyIP": "",
             "ProxyPort": "",
             "Info": ""
-        },
-        {
-            "Name": "🔵TIM TESTE 1 ",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.9[crlf]host: [rotate=mtls.sandbox.c6bank.com.br;pre-onboarding-p.c6bank.app;www.c6bank.com.br;creatorsupport.deezer.com;www.c6bank.com.br;ajuda.c6bank.com.br][crlf][delay_split]ACL / HTTP/1.9[crlf]Host: topspeed.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Dalvik/2.1.0 (Linux; U; Android 10; MED-LX9 Build/HUAWEIMED-LX9)[crlf]X-Online-Host: a.86net.shop www.youtube.com[crlf]X-Forwarded-For:www.youtube.com[crlf]X-Forward-Host: www.skynet.com[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.16.51.100",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵TIM TESTE 2 ",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.9[crlf]host: [rotate=mtls.sandbox.c6bank.com.br;pre-onboarding-p.c6bank.app;www.c6bank.com.br;creatorsupport.deezer.com;www.c6bank.com.br;ajuda.c6bank.com.br][crlf][delay_split]ACL / HTTP/1.9[crlf]Host: topspeed.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: a.86netmshop[crlf]Upgrade: Dalvik/2.1.0 (Linux; U; Android 10; MED-LX9 Build/HUAWEIMED-LX9)[crlf]X-Online-Host: a.86net.shop www.youtube.com[crlf]X-Forwarded-For:www.youtube.com[crlf]X-Forward-Host: www.skynet.com[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.18.28.182",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵TIM TESTE 3 ",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.9[crlf]host: [rotate=mtls.sandbox.c6bank.com.br;pre-onboarding-p.c6bank.app;www.c6bank.com.br;creatorsupport.deezer.com;www.c6bank.com.br;ajuda.c6bank.com.br][crlf][delay_split]ACL / HTTP/1.9[crlf]Host: topspeed.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Dalvik/2.1.0 (Linux; U; Android 10; MED-LX9 Build/HUAWEIMED-LX9)[crlf]X-Online-Host: a.86net.shop www.youtube.com[crlf]X-Forwarded-For:www.youtube.com[crlf]X-Forward-Host: www.skynet.com[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.19.239.25",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵TIM TESTE 4 ",
-            "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.9[crlf]host: [rotate=mtls.sandbox.c6bank.com.br;pre-onboarding-p.c6bank.app;www.c6bank.com.br;creatorsupport.deezer.com;www.c6bank.com.br;ajuda.c6bank.com.br][crlf][delay_split]ACL / HTTP/1.9[crlf]Host: topspeed.c6bank.app[crlf][crlf][delay_split][crlf][crlf]ACL / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Dalvik/2.1.0 (Linux; U; Android 10; MED-LX9 Build/HUAWEIMED-LX9)[crlf]X-Online-Host: a.86net.shop www.youtube.com[crlf]X-Forwarded-For:www.youtube.com[crlf]X-Forward-Host: www.skynet.com[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.18.99.70",
-            "ProxyPort": "80",
-            "Info": "Proxy"
         },
         {
             "Name": "🔵TIM VÁLIDO BR86Net ",
