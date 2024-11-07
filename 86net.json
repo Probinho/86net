@@ -1,5 +1,5 @@
 {
-    "Version": 42,
+    "Version": 43,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v42",
+            "Name": "86Net v43",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -287,42 +287,42 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO 2 ",
+            "Name": "TIM VÁLIDO INTERNO 2 ",
             "FLAG": "tim",
             "Payload": "ACL /wss.html HTTP/1.1[lf]Host: [rotate=a.86net.shop][lf]Expect: 100-tmyvpn[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "104.21.2.132",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO 3",
+            "Name": "TIM VÁLIDO INTERNO 3 ",
             "FLAG": "tim",
             "Payload": "ACL /wss.html HTTP/1.1[lf]Host: [rotate=a.86net.shop][lf]Expect: 100-tmyvpn[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "timofertas.com",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO 4",
+            "Name": "TIM VÁLIDO INTERNO 4 ",
             "FLAG": "tim",
             "Payload": "ACL /wss.html HTTP/1.1[lf]Host: [rotate=a.86net.shop][lf]Expect: 100-tmyvpn[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "172.67.129.62",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO 5",
+            "Name": "TIM VÁLIDO INTERNO 5 ",
             "FLAG": "tim",
             "Payload": "ACL /wss.html HTTP/1.1[lf]Host: [rotate=a.86net.shop][lf]Expect: 100-tmyvpn[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "104.21.2.132",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
