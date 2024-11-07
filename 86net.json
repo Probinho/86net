@@ -1,5 +1,5 @@
 {
-    "Version": 51,
+    "Version": 52,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v51",
+            "Name": "86Net v52",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -257,12 +257,12 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO INTERNO ",
+            "Name": "TIM VÁLIDO E EXPIRADO ",
             "FLAG": "tim",
-            "Payload": "ACL /wss.html HTTP/1.1[lf]Host: [rotate=a.86net.shop][lf]Expect: 100-tmyvpn[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+            "Payload": "PATCH / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "172.64.154.143",
+            "ProxyIP": "104.19.240.93",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
