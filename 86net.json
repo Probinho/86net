@@ -1,5 +1,5 @@
 {
-    "Version": 56,
+    "Version": 57,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v56",
+            "Name": "86Net v57",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -252,7 +252,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "vpn.cloudmi.datami.com",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -297,9 +297,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO INTERNO 4 ",
+            "Name": "TIM VÁLIDO GRINGO 5",
             "FLAG": "tim",
-            "Payload": "ACL /wss.html HTTP/1.1[lf]Host: [rotate=a.86net.shop][lf]Expect: 100-tmyvpn[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "mtls.sandbox.c6bank.com.br",
@@ -307,7 +307,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO INTERNO 5 ",
+            "Name": "TIM VÁLIDO GRINGO 6 ",
             "FLAG": "tim",
             "Payload": "ACL /wss.html HTTP/1.1[lf]Host: [rotate=a.86net.shop][lf]Expect: 100-tmyvpn[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
             "SNI": "",
@@ -377,4 +377,4 @@
             "Info": "Proxy"
         }
     ]
-        }
+       }
