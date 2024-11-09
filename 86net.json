@@ -1,5 +1,5 @@
 {
-    "Version": 55,
+    "Version": 56,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v55",
+            "Name": "86Net v56",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -262,7 +262,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "timpospromo.com.br",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -282,7 +282,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "104.16.53.111",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -292,7 +292,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "172.67.188.168",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -302,7 +302,7 @@
             "Payload": "ACL /wss.html HTTP/1.1[lf]Host: [rotate=a.86net.shop][lf]Expect: 100-tmyvpn[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "172.64.154.143",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -312,7 +312,7 @@
             "Payload": "ACL /wss.html HTTP/1.1[lf]Host: [rotate=a.86net.shop][lf]Expect: 100-tmyvpn[lf]Connection: Upgrade[lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "172.64.154.143",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -377,4 +377,4 @@
             "Info": "Proxy"
         }
     ]
-}
+        }
