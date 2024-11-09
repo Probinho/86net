@@ -1,5 +1,5 @@
 {
-    "Version": 84,
+    "Version": 85,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v84",
+            "Name": "86Net v85",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -257,9 +257,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "🔵TIM VÁLIDO GRINGO 01 ",
+            "Name": "🔵TIM VÁLIDO GRINGO 1 ",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -267,9 +267,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "🔵TIM VÁLIDO GRINGO 02 ",
+            "Name": "🔵TIM VÁLIDO GRINGO 2",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -277,9 +277,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "🔵TIM VÁLIDO GRINGO 03 ",
+            "Name": "🔵TIM VÁLIDO GRINGO 3",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -287,9 +287,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "🔵TIM VÁLIDO GRINGO 04",
+            "Name": "🔵TIM VÁLIDO GRINGO 4",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -297,9 +297,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "🔵TIM VÁLIDO GRINGO 05 ",
+            "Name": "🔵TIM VÁLIDO GRINGO 5",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -307,9 +307,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "🔵TIM VÁLIDO GRINGO 06 ",
+            "Name": "🔵TIM VÁLIDO GRINGO 6 ",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -317,9 +317,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "🔵TIM VÁLIDO GRINGO 07 ",
+            "Name": "🔵TIM VÁLIDO GRINGO 7",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
