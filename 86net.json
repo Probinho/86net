@@ -1,5 +1,5 @@
 {
-    "Version": 82,
+    "Version": 83,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v82",
+            "Name": "86Net v83",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -249,7 +249,7 @@
         {
             "Name": "🔵TIM VÁLIDO GRINGO ",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: apf.maisvantagenstim.com.br[lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
