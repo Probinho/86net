@@ -1,5 +1,5 @@
 {
-    "Version": 68,
+    "Version": 69,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v68",
+            "Name": "86Net v69",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -377,4 +377,4 @@
             "Info": "Proxy"
         }
     ]
-}
+        }
