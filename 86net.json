@@ -1,5 +1,5 @@
 {
-    "Version": 79,
+    "Version": 80,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v79",
+            "Name": "86Net v80",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -47,12 +47,12 @@
             "Info": ""
         },
         {
-            "Name": "VIVO SECURITY 01",
+            "Name": "VIVO GRINGO 01",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: vivo.com.br[lf]",
+      "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "45.140.192.126",
       "TlsIP": "45.140.192.126",
-      "ProxyIP": "45.140.192.126",
+      "ProxyIP": "app.vivo.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
          },
@@ -247,12 +247,12 @@
             "Info": ""
         },
         {
-            "Name": "🔵TIM VÁLIDO NOVO ",
+            "Name": "🔵TIM VÁLIDO GRINGO ",
             "FLAG": "tim",
-            "Payload": "CONNECT / HTTP/1.9[crlf]host: timofertas.com[crlf][crlf][split][crlf]OPTIONS- // HTTP/1.9[crlf]host: a.86net.shop[crlf]Expect: 200-continue[crlf]Proxy-Connection: Keep-Alive[crlf]Keep-Alive: timeout=5, max=1000[crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf]Sec WebSocketExtensions: superspeed[crlf]Last-Modified: Fri, 17 March 2022 04:32:39 GMT[crlf]Server: Qnax[crlf]User-Agent: Mozilla/5.0 (Linux; Android 4.4.2); Nexus 5 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/33.0.1750.117 Mobile Safari/537.36 OPR/20.0.1396.72047[crlf][crlf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "45.140.192.126",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
