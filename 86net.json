@@ -1,5 +1,5 @@
 {
-    "Version": 91,
+    "Version": 92,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v91",
+            "Name": "86Net v92",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -339,7 +339,7 @@
         {
             "Name": "TIM EXPIRADO ON NOVA 1",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;a.86net.shop;1.cloudfront.net;www.dropbox.com][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "186.233.118.216",
