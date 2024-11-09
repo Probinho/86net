@@ -1,5 +1,5 @@
 {
-    "Version": 83,
+    "Version": 84,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v83",
+            "Name": "86Net v84",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -262,7 +262,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "mtls.sandbox.c6bank.com.br",
+            "ProxyIP": "vpn.cloudmi.datami.com",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -272,7 +272,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "timpospromo.com.br",
+            "ProxyIP": "vpn.cloudmi.datami.com",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -282,7 +282,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "mtls.sandbox.c6bank.com.br.70",
+            "ProxyIP": "vpn.cloudmi.datami.com",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -292,7 +292,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "mtls.sandbox.c6bank.com.br",
+            "ProxyIP": "vpn.cloudmi.datami.com",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -302,7 +302,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "mtls.sandbox.c6bank.com.br",
+            "ProxyIP": "vpn.cloudmi.datami.com",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -312,7 +312,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "104.16.53.111",
+            "ProxyIP": "vpn.cloudmi.datami.com",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -322,7 +322,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "172.67.188.168",
+            "ProxyIP": "vpn.cloudmi.datami.com",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -342,7 +342,7 @@
             "Payload": "HTTP/ 1[lf]Host: portalrecarga.vivo.com.br;Tim.com.br;blaze-1.com;glink.net.br-CDN-GEThttp://ACL-CDN-VIVO.COM.BR;GOOGLE.COM\\n\\n\\n \\n",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "45.140.192.126",
+            "ProxyIP": "vpn.cloudmi.datami.com",
             "ProxyPort": "80",
             "Info": "Proxy"
        },
