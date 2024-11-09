@@ -1,5 +1,5 @@
 {
-    "Version": 60,
+    "Version": 61,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v60",
+            "Name": "86Net v61",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -52,7 +52,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
@@ -62,7 +62,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
@@ -72,7 +72,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
@@ -82,7 +82,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
@@ -92,7 +92,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
@@ -102,7 +102,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
@@ -112,7 +112,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
@@ -122,7 +122,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -132,7 +132,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -142,7 +142,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -152,7 +152,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -162,7 +162,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -172,7 +172,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -182,7 +182,7 @@
             "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "app.vivo.com.br",
+            "ProxyIP": "gedoc.vivo.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
