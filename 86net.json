@@ -1,5 +1,5 @@
 {
-    "Version": 64,
+    "Version": 65,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v64",
+            "Name": "86Net v65",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -319,7 +319,7 @@
         {
             "Name": "??🔵Tim Expirado??",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=yhjq23.360.com.fail;alt4.aspmx.l.google.com;www.xhtsw.163.com.fail;www.storm.canny.io;www.reimaginetomorrow-qa.disney.com;www.minecraft.msgfocus.com;www.netflixawards.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;aspmx.l.google.com.469.it. 20secondenhandenwassen.nl;aspmx.l.google.com.469.it;alt2.aspmx.l.google.com.0088.tv;alt1.aspmx.l.google.com.123sexshop.be;alt2.aspmx.l.google.com.sac-surveyors.org;alt2.aspmx.l.google.com.meta-meta.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]@",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "45.140.192.126",
@@ -329,7 +329,7 @@
         {
             "Name": "TIM EXPIRADO GRINGO",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=yhjq23.360.com.fail;alt4.aspmx.l.google.com;www.xhtsw.163.com.fail;www.storm.canny.io;www.reimaginetomorrow-qa.disney.com;www.minecraft.msgfocus.com;www.netflixawards.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;aspmx.l.google.com.469.it. 20secondenhandenwassen.nl;aspmx.l.google.com.469.it;alt2.aspmx.l.google.com.0088.tv;alt1.aspmx.l.google.com.123sexshop.be;alt2.aspmx.l.google.com.sac-surveyors.org;alt2.aspmx.l.google.com.meta-meta.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]@",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "45.140.192.126",
@@ -339,7 +339,7 @@
        {
             "Name": "TIM EXPIRADO GRINGO 1",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=yhjq23.360.com.fail;alt4.aspmx.l.google.com;www.xhtsw.163.com.fail;www.storm.canny.io;www.reimaginetomorrow-qa.disney.com;www.minecraft.msgfocus.com;www.netflixawards.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;aspmx.l.google.com.469.it. 20secondenhandenwassen.nl;aspmx.l.google.com.469.it;alt2.aspmx.l.google.com.0088.tv;alt1.aspmx.l.google.com.123sexshop.be;alt2.aspmx.l.google.com.sac-surveyors.org;alt2.aspmx.l.google.com.meta-meta.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]@",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "45.140.192.126",
@@ -359,7 +359,7 @@
         {
             "Name": "??Tim Expirado GTINGO 04??",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=yhjq23.360.com.fail;alt4.aspmx.l.google.com;www.xhtsw.163.com.fail;www.storm.canny.io;www.reimaginetomorrow-qa.disney.com;www.minecraft.msgfocus.com;www.netflixawards.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;aspmx.l.google.com.469.it. 20secondenhandenwassen.nl;aspmx.l.google.com.469.it;alt2.aspmx.l.google.com.0088.tv;alt1.aspmx.l.google.com.123sexshop.be;alt2.aspmx.l.google.com.sac-surveyors.org;alt2.aspmx.l.google.com.meta-meta.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]@",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "45.140.192.126",
@@ -369,7 +369,7 @@
         {
            "Name": "??Tim Expirado GRINGO 05??",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=yhjq23.360.com.fail;alt4.aspmx.l.google.com;www.xhtsw.163.com.fail;www.storm.canny.io;www.reimaginetomorrow-qa.disney.com;www.minecraft.msgfocus.com;www.netflixawards.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;aspmx.l.google.com.469.it. 20secondenhandenwassen.nl;aspmx.l.google.com.469.it;alt2.aspmx.l.google.com.0088.tv;alt1.aspmx.l.google.com.123sexshop.be;alt2.aspmx.l.google.com.sac-surveyors.org;alt2.aspmx.l.google.com.meta-meta.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]@",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "45.140.192.126",
