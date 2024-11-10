@@ -1,5 +1,5 @@
 {
-    "Version": 104,
+    "Version": 105,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v104",
+            "Name": "86Net v105",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -268,9 +268,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO GRINGO",
+            "Name": "TIM EXPIRADO ",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]ACL- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "revive.timrecompensas.com.br",
@@ -278,12 +278,12 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO GRINGO 1",
+            "Name": "TIM EXPIRADO 5 ",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]ACL- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
