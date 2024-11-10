@@ -1,5 +1,5 @@
 {
-    "Version": 105,
+    "Version": 106,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v105",
+            "Name": "86Net v106",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -278,19 +278,19 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO 5 ",
+            "Name": "TIM EXPIRADO 1",
             "FLAG": "tim",
             "Payload": "GET / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]ACL- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "45.140.192.126",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO GRINGO 2",
+            "Name": "TIM EXPIRADO 2",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]ACL- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "revive.timrecompensas.com.br",
@@ -298,9 +298,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO GRINGO 3",
+            "Name": "TIM EXPIRADO 3",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]ACL- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "revive.timrecompensas.com.br",
@@ -308,9 +308,9 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO GRINGO 4",
+            "Name": "TIM EXPIRADO 4 ",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]ACL- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "revive.timrecompensas.com.br",
@@ -318,20 +318,39 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO GRINGO 5",
+            "Name": "TIM EXPIRADO 5",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]ACL- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
-          
         },
         {
-            "Name": "TIM EXPIRADO GRINGO 6",
+            "Name": "TIM EXPIRADO 6",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]ACL- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM EXPIRADO 7",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]ACL- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM EXPIRADO 8",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]ACL- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "revive.timrecompensas.com.br",
