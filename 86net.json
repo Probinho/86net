@@ -1,5 +1,5 @@
 {
-    "Version": 94,
+    "Version": 95,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v94",
+            "Name": "86Net v95",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -167,146 +167,8 @@
             "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
-         },
-         {
-            "Name": "🔵TIM VÁLIDO GRINGO ",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "vpn.cloudmi.datami.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵TIM VÁLIDO GRINGO 01 ",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "timpospromo.com.br",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵TIM VÁLIDO GRINGO 02 ",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.16.53.111",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵TIM VÁLIDO GRINGO 03 ",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "172.67.188.168",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵TIM VÁLIDO GRINGO 04",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.17.64.225",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵TIM VÁLIDO GRINGO 05 ",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "mtls.sandbox.c6bank.com.br",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵TIM VÁLIDO GRINGO 06 ",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "1.1.1.1",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵TIM VÁLIDO GRINGO 07 ",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]Backend: cod79[lf]Upgrade: Websocket[crlf][crlf",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "1.1.1.1",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "🔵Tim Expirado",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "vpn.cloudmi.datami.com",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "TIM EXPIRADO ON NOVA 1",
-            "FLAG": "tim",
-            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;a.86net.shop;1.cloudfront.net;www.dropbox.com][lf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "186.233.118.216",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-       },
-       {
-            "Name": "??Tim Expirado 02??",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "1.1.1.1",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-           "Name": "??Tim Expirado 03??",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "1.1.1.1",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-           "Name": "??Tim Expirado 04??",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "1.1.1.1",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-           "Name": "??Tim Expirado 05??",
-            "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "1.1.1.1",
-            "ProxyPort": "80",
-            "Info": "Proxy"
+        
+
         }
     ]
 }
