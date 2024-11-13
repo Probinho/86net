@@ -1,5 +1,5 @@
 {
-    "Version": 106,
+    "Version": 107,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v106",
+            "Name": "86Net v107",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -47,9 +47,19 @@
             "Info": ""
         },
         {
+            "Name": "VIVO GRINGO",
+            "FLAG": "vivo",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "[app_host]",
+            "TlsIP": "45.140.192.126",
+            "ProxyIP": "app.vivo.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+         },
+         {
             "Name": "VIVO GRINGO 1 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "app.vivo.com.br",
@@ -59,7 +69,7 @@
          {
             "Name": "VIVO GRINGO 2 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "app.vivo.com.br",
@@ -69,7 +79,7 @@
          {
             "Name": "VIVO GRINGO 3 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "app.vivo.com.br",
@@ -77,9 +87,9 @@
             "Info": "Proxy"
          },
          {
-            "Name": "VIVO GRINGO 4 ",
+             "Name": "VIVO GRINGO 4 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: fv5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "app.vivo.com.br",
@@ -90,7 +100,7 @@
          
             "Name": "VIVO GRINGO 5 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "app.vivo.com.br",
@@ -98,9 +108,9 @@
             "Info": "Proxy"
      },
      {
-            "Name": "VIVO GRINGO 6 ",
+           "Name": "VIVO GRINGO 6 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "app.vivo.com.br",
@@ -108,9 +118,9 @@
             "Info": "Proxy"
      },
      {
-            "Name": "VIVO GRINGO 7 ",
+           "Name": "VIVO GRINGO 7 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "app.vivo.com.br",
@@ -120,7 +130,7 @@
      {
             "Name": "VIVO GRINGO 8 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "app.vivo.com.br",
@@ -130,7 +140,7 @@
      {
             "Name": "VIVO GRINGO 9 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "app.vivo.com.br",
@@ -140,7 +150,7 @@
          {
             "Name": "VIVO GRINGO 10 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "app.vivo.com.br",
