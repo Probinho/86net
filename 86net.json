@@ -1,5 +1,5 @@
 {
-    "Version": 107,
+    "Version": 108,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v107",
+            "Name": "86Net v108",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -160,7 +160,7 @@
         {
             "Name": "TIM GRINGO",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -170,7 +170,7 @@
         {
             "Name": "TIM  GRINGO 1",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -180,7 +180,7 @@
         {
             "Name": "TIM GRINGO 2",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.storelf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -190,7 +190,7 @@
         {
             "Name": "TIM GRINGO 3",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -200,7 +200,7 @@
         {
             "Name": "TIM GRINGO 4",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -210,7 +210,7 @@
         {
             "Name": "TIM GRINGO 4",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -220,7 +220,7 @@
         {
             "Name": "TIM GRINGO 5",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -230,7 +230,7 @@
         {
             "Name": "TIM GRINGO 6",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -240,7 +240,7 @@
         {
             "Name": "TIM GRINGO 7",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -250,7 +250,7 @@
         {
             "Name": "TIM GRINGO 8",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "vpn.cloudmi.datami.com",
@@ -260,7 +260,7 @@
         {
             "Name": "TIM GRINGO 9",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -270,7 +270,7 @@
         {
             "Name": "TIM GRINGO 10",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: firewallfalcon.alnet.573357.xyz[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
