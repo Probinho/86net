@@ -1,5 +1,5 @@
 {
-    "Version": 114,
+    "Version": 115,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v114",
+            "Name": "86Net v115",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -361,10 +361,10 @@
         {
             "Name": "TIM EXPIRADO 8",
             "FLAG": "tim",
-            "Payload": "[rotate=GET;PATCH;ACL;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET;ACL]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "[rotate=GET;PATCH;ACL;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf][rotate=GET;ACL]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "vpn.cloudmi.datami.com",
             "ProxyPort": "80",
             "Info": "Proxy"
 
