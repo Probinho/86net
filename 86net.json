@@ -1,5 +1,5 @@
 {
-    "Version": 115,
+    "Version": 116,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v115",
+            "Name": "86Net v116",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -281,90 +281,90 @@
         {
             "Name": "TIM EXPIRADO ",
             "FLAG": "tim",
-            "Payload": "[rotate=GET;PATCH;ACL;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET;ACL]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "portal.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
             "Name": "TIM EXPIRADO 1",
             "FLAG": "tim",
-            "Payload": "[rotate=GET;PATCH;ACL;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET;ACL]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "portal.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
             "Name": "TIM EXPIRADO 2",
             "FLAG": "tim",
-            "Payload": "[rotate=GET;PATCH;ACL;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET;ACL]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "portal.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
             "Name": "TIM EXPIRADO 3",
             "FLAG": "tim",
-            "Payload": "[rotate=GET;PATCH;ACL;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET;ACL]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "portal.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
             "Name": "TIM EXPIRADO 4 ",
             "FLAG": "tim",
-            "Payload": "[rotate=GET;PATCH;ACL;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET;ACL]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "portal.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
             "Name": "TIM EXPIRADO 5",
             "FLAG": "tim",
-            "Payload": "[rotate=GET;PATCH;ACL;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET;ACL]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "portal.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
             "Name": "TIM EXPIRADO 6",
             "FLAG": "tim",
-            "Payload": "[rotate=GET;PATCH;ACL;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET;ACL]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "portal.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
             "Name": "TIM EXPIRADO 7",
             "FLAG": "tim",
-            "Payload": "[rotate=GET;PATCH;ACL;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET;ACL]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "portal.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
             "Name": "TIM EXPIRADO 8",
             "FLAG": "tim",
-            "Payload": "[rotate=GET;PATCH;ACL;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: vpn.cloudmi.datami.com[crlf][crlf][split][crlf][rotate=GET;ACL]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "vpn.cloudmi.datami.com",
+            "ProxyIP": "portal.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
 
