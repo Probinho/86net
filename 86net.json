@@ -1,5 +1,5 @@
 {
-    "Version": 117,
+    "Version": 118,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v117",
+            "Name": "86Net v118",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -49,7 +49,7 @@
          {
          "Name": "VIVO GRINGO",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cleber.mixnet.shop[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "162.159.135.63",
@@ -59,7 +59,7 @@
          {
             "Name": "VIVO GRINGO 1 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cleber.mixnet.shop[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "162.159.135.63",
@@ -69,7 +69,7 @@
          {
             "Name": "VIVO GRINGO 2 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cleber.mixnet.shop[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "162.159.135.63",
@@ -79,7 +79,7 @@
          {
             "Name": "VIVO GRINGO 3 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cleber.mixnet.shop[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "162.159.135.63",
@@ -89,7 +89,7 @@
          {
              "Name": "VIVO GRINGO 4 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cleber.mixnet.shop[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "162.159.135.63",
@@ -100,7 +100,7 @@
          
             "Name": "VIVO GRINGO 5 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cleber.mixnet.shop[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "162.159.135.63",
@@ -110,7 +110,7 @@
         {
            "Name": "VIVO GRINGO 6 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cleber.mixnet.shop[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "162.159.135.63",
@@ -120,7 +120,7 @@
         {
            "Name": "VIVO GRINGO 7 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cleber.mixnet.shop[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "162.159.135.63",
@@ -130,7 +130,7 @@
          {
             "Name": "VIVO GRINGO 8 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cleber.mixnet.shop[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "162.159.135.63",
@@ -140,7 +140,7 @@
          {
             "Name": "VIVO GRINGO 9 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cleber.mixnet.shop[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "162.159.135.63",
@@ -150,7 +150,7 @@
          {
             "Name": "VIVO GRINGO 10 ",
             "FLAG": "vivo",
-            "Payload": "PUT / HTTP/1.1[crlf]Host: v5.thur.store[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: cleber.mixnet.shop[crlf]X-Status-Id: tunnel[crlf]Backend: cod79[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "162.159.135.63",
@@ -160,7 +160,7 @@
         {
             "Name": "TIM GRINGO ",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: cleber.mixnet.shop[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -170,7 +170,7 @@
         {
             "Name": "TIM GRINGO 1",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: cleber.mixnet.shop[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -180,7 +180,7 @@
         {
             "Name": "TIM GRINGO 2",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: cleber.mixnet.shop[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -190,7 +190,7 @@
         {
             "Name": "TIM GRINGO 3",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: cleber.mixnet.shop[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -200,7 +200,7 @@
         {
             "Name": "TIM GRINGO 4",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: cleber.mixnet.shop[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -210,7 +210,7 @@
         {
             "Name": "TIM GRINGO 5",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: cleber.mixnet.shop[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -220,7 +220,7 @@
         {
             "Name": "TIM GRINGO 6",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: cleber.mixnet.shop[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -230,7 +230,7 @@
         {
             "Name": "TIM GRINGO 7",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: cleber.mixnet.shop[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
@@ -240,7 +240,7 @@
         {
             "Name": "TIM GRINGO 8",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: v5.thur.store[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=analytics.datami.com;developer.datami.com;dra-api.cloudmi.datami.com;global-mmsportal.cloudmi.datami.com;global-portal.cloudmi.datami.com;len.cloudmi.datami.com;let.cloudmi.datami.com][lf][crlf][split][lf]_ / HTTP/1.1[crlf]Host: cleber.mixnet.shop[lf]Backend: cod79[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "1.1.1.1",
