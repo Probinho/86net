@@ -1,5 +1,5 @@
 {
-    "Version": 123,
+    "Version": 124,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v123",
+            "Name": "86Net v124",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -49,7 +49,7 @@
          {
          "Name": "VIVO GRINGO",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]#GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]#[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -59,7 +59,7 @@
          {
             "Name": "VIVO GRINGO 1 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]#GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]#[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -69,7 +69,7 @@
          {
             "Name": "VIVO GRINGO 2 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]#GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]#[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
