@@ -1,5 +1,5 @@
 {
-    "Version": 125,
+    "Version": 126,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v125",
+            "Name": "86Net v126",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -47,17 +47,7 @@
             "Info": ""
          },
          {
-         "Name": "VIVO GRINGO",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
-            "SNI": "[app_host]",
-            "TlsIP": "45.140.192.126",
-            "ProxyIP": "45.140.192.126",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-         },
-         {
-            "Name": "VIVO GRINGO 1 ",
+         "Name": "VIVO SECURITY",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]",
             "SNI": "[app_host]",
@@ -67,7 +57,17 @@
             "Info": "Proxy"
          },
          {
-            "Name": "VIVO GRINGO 2 ",
+            "Name": "VIVO SECURITY 1",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]",
+            "SNI": "[app_host]",
+            "TlsIP": "45.140.192.126",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+         },
+         {
+            "Name": "VIVO SECURITY 2",
             "FLAG": "vivo",
             "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
             "SNI": "[app_host]",
@@ -87,9 +87,9 @@
             "Info": "Proxy"
          },
          {
-             "Name": "VIVO GRINGO 4 ",
+             "Name": "VIVO SECURITY 4",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -98,9 +98,9 @@
          },
          {
          
-            "Name": "VIVO GRINGO 5 ",
+            "Name": "VIVO SECURITY 5 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
