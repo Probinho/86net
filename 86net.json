@@ -1,5 +1,5 @@
 {
-    "Version": 124,
+    "Version": 125,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v124",
+            "Name": "86Net v125",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -69,7 +69,7 @@
          {
             "Name": "VIVO GRINGO 2 ",
             "FLAG": "vivo",
-            "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -79,7 +79,7 @@
          {
             "Name": "VIVO GRINGO 3 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]#GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]#[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -89,7 +89,7 @@
          {
              "Name": "VIVO GRINGO 4 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]#GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]#[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -100,7 +100,7 @@
          
             "Name": "VIVO GRINGO 5 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]#GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]#[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -110,7 +110,7 @@
         {
            "Name": "VIVO GRINGO 6 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]#GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]#[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -120,7 +120,7 @@
         {
            "Name": "VIVO GRINGO 7 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]#GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]#[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -130,7 +130,7 @@
          {
             "Name": "VIVO GRINGO 8 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]#GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]#[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -140,7 +140,7 @@
          {
             "Name": "VIVO GRINGO 9 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]#GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]#[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -150,7 +150,7 @@
          {
             "Name": "VIVO GRINGO 10 ",
             "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]#GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf][lf]#[delay_split][lf]GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET / HTTP/1.1[lf]host: portalrecarga.vivo.com.br/recarga/[lf][lf][lf][lf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
