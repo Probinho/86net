@@ -1,5 +1,5 @@
 {
-    "Version": 134,
+    "Version": 135,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v134",
+            "Name": "86Net v135",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -251,7 +251,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "portal.timrecompensas.com.br",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -261,7 +261,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "portal.timrecompensas.com.br",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -271,7 +271,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "portal.timrecompensas.com.br",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -281,7 +281,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "portal.timrecompensas.com.br",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -291,7 +291,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "45.140.192.126",
-            "ProxyIP": "portal.timrecompensas.com.br",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -301,7 +301,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "portal.timrecompensas.com.br",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -311,7 +311,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "portal.timrecompensas.com.br",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -321,7 +321,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "portal.timrecompensas.com.br",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
