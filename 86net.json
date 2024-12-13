@@ -1,5 +1,5 @@
 {
-    "Version": 138,
+    "Version": 139,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v138",
+            "Name": "86Net v139",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -49,80 +49,80 @@
         {
            "Name": "VIVO TOP",
            "FLAG": "vivo",
-           "Payload": "ACL // [split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][split][lf]BCOPY / HTTP/1.1[lf]Host: cleber.mixnet.shop[lf]upgrade: Websocket[lf][lf]",
+           "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
            "SNI": "45.140.192.126",
            "TlsIP": "45.140.192.126",
-           "ProxyIP": "apf.maisvantagenstim.com.br",
+           "ProxyIP": "45.140.192.126",
            "ProxyPort": "80",
            "Info": "Proxy"
          },
          {
            "Name": "VIVO TOP 1",
            "FLAG": "vivo",
-           "Payload": "ACL // [split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][split][lf]BCOPY / HTTP/1.1[lf]Host: cleber.mixnet.shop[lf]upgrade: Websocket[lf][lf]",
+           "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
            "SNI": "45.140.192.126",
            "TlsIP": "45.140.192.126",
-           "ProxyIP": "apf.maisvantagenstim.com.br",
+           "ProxyIP": "45.140.192.126",
            "ProxyPort": "80",
            "Info": "Proxy"
          },
          {
            "Name": "VIVO TOP 2",
            "FLAG": "vivo",
-           "Payload": "ACL // [split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][split][lf]BCOPY / HTTP/1.1[lf]Host: cleber.mixnet.shop[lf]upgrade: Websocket[lf][lf]",
+           "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
            "SNI": "45.140.192.126",
            "TlsIP": "45.140.192.126",
-           "ProxyIP": "apf.maisvantagenstim.com.br",
+           "ProxyIP": "45.140.192.126",
            "ProxyPort": "80",
            "Info": "Proxy"
          },
          {
            "Name": "VIVO TOP 3",
            "FLAG": "vivo",
-           "Payload": "ACL // [split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][split][lf]BCOPY / HTTP/1.1[lf]Host: cleber.mixnet.shop[lf]upgrade: Websocket[lf][lf]",
+           "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
            "SNI": "45.140.192.126",
            "TlsIP": "45.140.192.126",
-           "ProxyIP": "apf.maisvantagenstim.com.br",
+           "ProxyIP": "45.140.192.126",
            "ProxyPort": "80",
            "Info": "Proxy"
          },
          {
            "Name": "VIVO TOP 4",
            "FLAG": "vivo",
-           "Payload": "ACL // [split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][split][lf]BCOPY / HTTP/1.1[lf]Host: cleber.mixnet.shop[lf]upgrade: Websocket[lf][lf]",
+           "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
            "SNI": "45.140.192.126",
            "TlsIP": "45.140.192.126",
-           "ProxyIP": "apf.maisvantagenstim.com.br",
+           "ProxyIP": "45.140.192.126",
            "ProxyPort": "80",
            "Info": "Proxy"
          },
          {
            "Name": "VIVO TOP 5",
            "FLAG": "vivo",
-           "Payload": "ACL // [split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][split][lf]BCOPY / HTTP/1.1[lf]Host: cleber.mixnet.shop[lf]upgrade: Websocket[lf][lf]",
+           "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
            "SNI": "45.140.192.126",
            "TlsIP": "45.140.192.126",
-           "ProxyIP": "apf.maisvantagenstim.com.br",
+           "ProxyIP": "45.140.192.126",
            "ProxyPort": "80",
            "Info": "Proxy"
          },
          {
            "Name": "VIVO TOP 6",
            "FLAG": "vivo",
-           "Payload": "ACL // [split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][split][lf]BCOPY / HTTP/1.1[lf]Host: cleber.mixnet.shop[lf]upgrade: Websocket[lf][lf]",
+           "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
            "SNI": "45.140.192.126",
            "TlsIP": "45.140.192.126",
-           "ProxyIP": "apf.maisvantagenstim.com.br",
+           "ProxyIP": "45.140.192.126",
            "ProxyPort": "80",
            "Info": "Proxy"
          },
          {
            "Name": "VIVO TOP 7",
            "FLAG": "vivo",
-           "Payload": "ACL // [split]HTTP/1.1 [lf]Host: app.vivo.com.br[lf][lf][split][lf]BCOPY / HTTP/1.1[lf]Host: cleber.mixnet.shop[lf]upgrade: Websocket[lf][lf]",
+           "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
            "SNI": "45.140.192.126",
            "TlsIP": "45.140.192.126",
-           "ProxyIP": "apf.maisvantagenstim.com.br",
+           "ProxyIP": "45.140.192.126",
            "ProxyPort": "80",
            "Info": "Proxy"
          },
