@@ -1,5 +1,5 @@
 {
-    "Version": 140,
+    "Version": 141,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v140",
+            "Name": "86Net v141",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -400,6 +400,36 @@
             "Name": "Tim Expirado 06",
             "FLAG": "tim",
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "portal.timrecompensas.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+             },
+        {
+           "Name": "TIM EXPIRADO 1 DDD 35",
+            "FLAG": "tim",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- /ws1 HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "vs.timrecompensas.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+           "Name": "TIM EXPIRADO 2 DDD 35",
+            "FLAG": "tim",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- /ws1 HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "TIM EXPIRADO 3 DDD 35",
+            "FLAG": "tim",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- /ws1 HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "portal.timrecompensas.com.br",
