@@ -1,5 +1,5 @@
 {
-    "Version": 142,
+    "Version": 143,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v142",
+            "Name": "86Net v143",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -449,10 +449,10 @@
         {
             "Name": "VIVO NOVA TOP 1",
             "FLAG": "vivo",
-            "Payload": "ACL sni://cdn.jsdelivr.net HTTP/1.1[crlf]Host: [app_host] [crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
+            "Payload": "ACL sni://cdn.jsdelivr.net HTTP/1.1[crlf]Host: [app_host] [crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "186.233.118.161",
+            "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
