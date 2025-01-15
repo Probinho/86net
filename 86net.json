@@ -1,5 +1,5 @@
 {
-    "Version": 143,
+    "Version": 144,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v143",
+            "Name": "86Net v144",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -458,6 +458,36 @@
         },
         {
             "Name": "VIVO NOVA TOP 2",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: http://[app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO NOVA TOP 3",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: http://[app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO NOVA TOP 4",
+            "FLAG": "vivo",
+            "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: http://[app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO NOVA TOP 5",
             "FLAG": "vivo",
             "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: http://[app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
             "SNI": "",
