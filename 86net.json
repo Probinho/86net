@@ -1,5 +1,5 @@
 {
-    "Version": 147,
+    "Version": 148,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v147",
+            "Name": "86Net v148",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -405,7 +405,7 @@
             "ProxyIP": "portal.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
-             },
+        },
         {
            "Name": "TIM EXPIRADO 1 DDD 35",
             "FLAG": "tim",
@@ -483,3 +483,9 @@
             "SNI": "",
             "TlsIP": "",
             "ProxyIP": "timrecompensas.com.br#172.66.0.157#104.18.5.18#apf.maisvantagenstim.com.br#172.64.154.143#16
+            "ProxyPort": "80",
+            "Info": "Proxy"
+
+        }
+    ]
+}
