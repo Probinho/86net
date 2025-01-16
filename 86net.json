@@ -1,5 +1,5 @@
 {
-    "Version": 145,
+    "Version": 146,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v145",
+            "Name": "86Net v146",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -447,12 +447,52 @@
             "Info": "Proxy"
         },
         {
-            "Name": "VIVO NOVA TOP 1",
-            "FLAG": "vivo",
-            "Payload": "ACL sni://cdn.jsdelivr.net HTTP/1.1[crlf]Host: [app_host] [crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]]",
+            "Name": "⚛️ Tim Vál-Exp Rotate 1️⃣",
+            "FLAG": "tim",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=portal.timrecompensas.com.br;vs.timrecompensas.com.br][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop [crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "45.140.192.126",
+            "ProxyIP": "portal.timrecompensas.com.br#vs.timrecompensas.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "⚛️ Tim Vál-Exp Rotate 2️⃣",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[lf]Host: timrecompensas.com.br[lf][lf][split][lf]GET- / HTTP/1.1[lf]Host: a.86net.shop[lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "timrecompensas.com.br#172.66.0.157#104.18.5.18#apf.maisvantagenstim.com.br#172.64.154.143#162.159.140.159#162.159.153.238#162.159.152.26",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "⚛️ Tim Vál-Exp Rotate 1️⃣",
+            "FLAG": "tim",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=portal.timrecompensas.com.br;vs.timrecompensas.com.br][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop [crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "portal.timrecompensas.com.br#vs.timrecompensas.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "⚛️ Tim Vál-Exp Rotate 2️⃣",
+            "FLAG": "tim",
+            "Payload": "GET / HTTP/1.1[lf]Host: timrecompensas.com.br[lf][lf][split][lf]GET- / HTTP/1.1[lf]Host: a.86net.shop[lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "timrecompensas.com.br#172.66.0.157#104.18.5.18#apf.maisvantagenstim.com.br#172.64.154.143#162.159.140.159#162.159.153.238#162.159.152.26",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "⚛️ Tim Vál-Exp Rotate 3️⃣",
+            "FLAG": "tim",
+            "Payload": "[random=GET;ACL;MOVE;OPTIONS;UNLOCK;PUT;SUBSCRIBE;PROPFIND] / HTTP/1.1[lf]Host: [rotate=revive.timrecompensas.com.br;apf.maisvantagenstim.com.br;timrecompensas.com.br][lf][lf][split][lf]GET- / HTTP/1.1[lf]Host: a.86net.shop[lf]Upgrade: ws[lf]User-Agent: yes[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "172.66.0.157#104.18.5.18#apf.maisvantagenstim.com.br#172.64.154.143#162.159.140.159#162.159.153.238#162.159.152.26#104.18.37.136#172.64.150.120#104.18.33.113",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -534,7 +574,7 @@
             "TlsIP": "",
             "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
-            "Info": "Proxy"
+            "Info": ""
         }
     ]
 }
