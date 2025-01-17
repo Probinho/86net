@@ -1,5 +1,5 @@
 {
-    "Version": 153,
+    "Version": 154,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v153",
+            "Name": "86Net v154",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -154,6 +154,36 @@
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "💥 Vivo Controle 1️⃣",
+            "FLAG": "vivo",
+            "Payload": "ACL / HTTP/1.1[lf]Host: a.86net.shop[lf]Upgrade: websocket[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "141.193.213.11",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "💥 Vivo Controle 2️⃣",
+            "FLAG": "vivo",
+            "Payload": "ACL / HTTP/1.1[lf]Host: a.86net.shop[lf]Upgrade: websocket[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "141.193.213.10",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "💥 Vivo Controle 3️⃣",
+            "FLAG": "vivo",
+            "Payload": "ACL / HTTP/1.1[lf]Host: a.86net.shop[lf]Upgrade: websocket[lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "141.193.213.10",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
