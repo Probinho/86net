@@ -1,5 +1,5 @@
 {
-    "Version": 163,
+    "Version": 164,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v163",
+            "Name": "86Net v164",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -183,7 +183,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -193,7 +193,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -203,7 +203,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -213,7 +213,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -223,7 +223,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -233,7 +233,7 @@
             "Payload": "[rotate=GET;CONNECT;MKCOL;HEAD;UPDATE;OPTIONS;DELETE;PUT] / HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf][rotate=GET]- / HTTP/1.1[crlf]Host: a.86net.shop[lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -243,7 +243,7 @@
             "Payload": "GET / HTTP/1.3[crlf]Host: pre-onboarding-h.c6bank.app[crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: [app_host][crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -253,7 +253,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -263,7 +263,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -273,7 +273,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "172.64.154.143",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
