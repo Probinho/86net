@@ -1,5 +1,5 @@
 {
-    "Version": 167,
+    "Version": 168,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v167",
+            "Name": "86Net v168",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -248,11 +248,11 @@
             "Info": "Proxy"
         },
         {
-        "Name": "TIM NOVA FRONT VÁLIDO E EXPIRADO",
+        "Name": "TIM FRONT VÁLIDO E EXPIRADO",
             "FLAG": "tim",
-            "Payload": "GET /86servidorHTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidorHTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
-            "TlsIP": "",
+            "TlsIP": "45.140.192.126",
             "ProxyIP": "bounce.mail.planos.tim.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
