@@ -1,5 +1,5 @@
 {
-    "Version": 168,
+    "Version": 169,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v168",
+            "Name": "86Net v169",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -168,12 +168,12 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO E EXPIRADO TODOS DDDS PRÉ",
+            "Name": "TIM VÁLIDO E EXPIRADO CDN",
             "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.3[crlf]Host: [rotate=mtls.sandbox.c6bank.com.br;app.sandbox.c6bank.com.br;api.sandbox.c6bank.com.br][crlf]Expect: 100-continue[crlf][crlf][split][crlf][crlf]ACL- // HTTP/1.3[crlf]Host: a.86net.shop[crlf]Expect: 100-continue[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf],
             "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "172.64.154.143",
+            "TlsIP": "dmt94hnnlakoi.cloudfront.net",
+            "ProxyIP": "bounce.mail.planos.tim.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -248,12 +248,12 @@
             "Info": "Proxy"
         },
         {
-        "Name": "TIM FRONT VÁLIDO E EXPIRADO",
+        "Name": "TIM EXPIRADO PRÉ",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidorHTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
-            "TlsIP": "45.140.192.126",
-            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "TlsIP": "",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
