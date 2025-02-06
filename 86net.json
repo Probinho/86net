@@ -1,5 +1,5 @@
 {
-    "Version": 172,
+    "Version": 173,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v172",
+            "Name": "86Net v173",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -47,12 +47,12 @@
             "Info": ""
         },
         {
-            "Name": "VIVO PRÉ",
+            "Name": "VIVO FRONT",
             "FLAG": "vivo",
-            "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
+            "Payload": "PUT /86servidor HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "[app_host]",
-            "TlsIP": "45.140.192.126",
-            "ProxyIP": "45.140.192.126",
+            "TlsIP": "86servidor",
+            "ProxyIP": "172.67.74.152",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
