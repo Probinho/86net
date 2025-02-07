@@ -1,5 +1,5 @@
 {
-    "Version": 174,
+    "Version": 175,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v174",
+            "Name": "86Net v175",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -47,12 +47,12 @@
             "Info": ""
         },
         {
-            "Name": "VIVO FRONT",
+            "Name": "VIVO PRÉ",
             "FLAG": "vivo",
-            "Payload": "PUT /86servidor HTTP/1.1[crlf]Host: [rotate=firewallfalcon.familytlcomputingbr.573357.xyz;firewallfalcon.tl0x.573357.xyz][crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
             "SNI": "[app_host]",
-            "TlsIP": "firewallfalcon.familytlcomputingbr.573357.xyz",
-            "ProxyIP": "172.67.74.152",
+            "TlsIP": "45.140.192.126",
+            "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
@@ -263,7 +263,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "timrecompensas.com.br",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -273,7 +273,7 @@
             "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "timrecompensas.com.br",
+            "ProxyIP": "revive.timrecompensas.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
