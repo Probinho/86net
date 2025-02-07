@@ -1,5 +1,5 @@
 {
-    "Version": 175,
+    "Version": 176,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v175",
+            "Name": "86Net v176",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -170,7 +170,7 @@
         {
             "Name": "TIM VÁLIDO FRONT",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1b3hbxfdnndsx.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
             "ProxyIP": "bounce.mail.planos.tim.com.br",
@@ -180,7 +180,7 @@
         {
             "Name": "TIM VÁLIDO FRONT 1",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1b3hbxfdnndsx.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
             "ProxyIP": "bounce.mail.planos.tim.com.br",
@@ -190,7 +190,7 @@
         {
             "Name": "TIM VÁLIDO FRONT 2",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1b3hbxfdnndsx.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
             "ProxyIP": "bounce.mail.planos.tim.com.br",
@@ -200,7 +200,7 @@
         {
             "Name": "TIM VÁLIDO FRONT 3",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1b3hbxfdnndsx.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
             "ProxyIP": "bounce.mail.planos.tim.com.br",
@@ -210,7 +210,7 @@
         {
             "Name": "TIM EXPIRADO FRONT ",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1b3hbxfdnndsx.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
             "ProxyIP": "bounce.mail.planos.tim.com.br",
@@ -220,7 +220,7 @@
         {
             "Name": "TIM EXPIRADO FRONT 1",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1b3hbxfdnndsx.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
             "ProxyIP": "bounce.mail.planos.tim.com.br",
@@ -230,7 +230,7 @@
         {
             "Name": "TIM EXPIRADO FRONT 2",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1b3hbxfdnndsx.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
             "ProxyIP": "bounce.mail.planos.tim.com.br",
@@ -240,7 +240,7 @@
         {         
             "Name": "TIM EXPIRADO FRONT 3",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: dmt94hnnlakoi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1b3hbxfdnndsx.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
             "ProxyIP": "bounce.mail.planos.tim.com.br",
