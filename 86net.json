@@ -1,5 +1,5 @@
 {
-    "Version": 179,
+    "Version": 180,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v179",
+            "Name": "86Net v180",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -118,87 +118,7 @@
             "Info": "Proxy"
          },
          {
-            "Name": "VIVO 01",
-            "FLAG": "vivo",
-            "Payload": "[split][lf][rotate=OPTIONS;DELETE;GET;PUT;POST] / HTTP/1.1[crlf]Host: borussh.shop[crlf]Upgrade: websocket[crlf]Expect: 100-continue[crlf]@JNET-VPN[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "104.26.12.205#172.67.74.152",
-            "ProxyIP": "104.26.12.205#172.67.74.152",
-            "ProxyPort": "80",
-            "Info": "Direct"
-        },
-        {
-            "Name": "VIVO 02",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]GET / HTTP1.1 [rotate= portalrecarga.vivo.com.br;www.apple.com;roblox.com;api-oyon.viu.com;twitch.tv;assine.vivo.com.br;wazer.com;soundwaze.com] / [protocol][crlf][raw][crlf]",
-            "SNI": "",
-            "TlsIP": "45.140.192.40",
-            "ProxyIP": "45.140.192.40",
-                "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "VIVO 03",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]ACL /revive.vivointernetgratis.com.br HTTP/1.1][lf]",
-            "SNI": "",
-            "TlsIP": "45.140.192.40",
-            "ProxyIP": "45.140.192.40",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "VIVO 04",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]ACL  exemplo:443 HTTP/1.1[crlf]Host: exemplo[crlf]Connection: keep-alive[crlf]Proxy-Connection: keep-alive[crlf]User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36[crlf]X-RealData: someActualData[crlf]Upgrade-Insecure-Requests: 1[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "45.140.192.40",
-            "ProxyIP": "45.140.192.40",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "VIVO 05",
-            "FLAG": "vivo",
-            "Payload": "[delay_split]ACL / HTTP/1.1[lf][crlf]Host:[rotate= 104.18.6.80;45.140.192.40;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;45.140.192.40][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "45.140.192.40",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "VIVO CLOUD 01",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "a.86net.shop",
-            "ProxyIP": "45.140.192.40",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "VIVO CLOUD 02",
-            "FLAG": "vivo",
-            "Payload": "ACL / [split]HTTP/1.1 [lf]Host: a.86net.shop[lf]Upgrade: Websocket[lf][lf]",
-            "SNI": "",
-            "TlsIP": "a.86net.shop",
-            "ProxyIP": "45.140.192.40",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            "Name": "VIVO CLOUD 03",
-            "FLAG": "vivo",
-            "Payload": "GET / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "a.86net.shop",
-            "ProxyIP": "45.140.192.40",
-            "ProxyPort": "80",
-            "Info": "Tlsws"
-        },
-        {
-             "Name": "VIVO PRÉ 7",
+            "Name": "VIVO PRÉ 7",
             "FLAG": "vivo",
             "Payload": "BCOPY / [crlf][crlf]",
             "SNI": "[app_host]",
