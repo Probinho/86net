@@ -1,5 +1,5 @@
 {
-    "Version": 185,
+    "Version": 186,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v185",
+            "Name": "86Net v186",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -288,72 +288,72 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO PRÉ",
+            "Name": "??Tim Expirado 01??",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO PRÉ",
+            "Name": "??Tim Expirado 02??",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO PRÉ",
+            "Name": "??Tim Expirado 03??",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO PRÉ",
+            "Name": "??Tim Expirado 04??",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO PRÉ",
+            "Name": "??Tim Expirado 05??",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO PRÉ",
+            "Name": "??Tim Expirado 06??",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO PRÉ",
+            "Name": "??Tim Expirado 07??",
             "FLAG": "tim",
-            "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "revive.timrecompensas.com.br",
+            "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
 
