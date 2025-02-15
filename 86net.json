@@ -1,5 +1,5 @@
 {
-    "Version": 186,
+    "Version": 187,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v186",
+            "Name": "86Net v187",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -86,53 +86,103 @@
             "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
-         },
-         {
-            "Name": "VIVO PRÉ 4",
+        },
+        {
+           "Name": "🟣 VIVO SECURITY 1🟣",
             "FLAG": "vivo",
-            "Payload": "PATCH / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "45.140.192.126",
+            "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random=vivoproxy.gdmnet.pro][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
             "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
          {
-            "Name": "VIVO PRÉ 5",
+             "Name": "🟣 VIVO SECURITY 2🟣",
             "FLAG": "vivo",
-            "Payload": "PATCH / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "45.140.192.126",
+            "Payload": "[delay_split][rotate=HEAD;GET;UPDATE;ACL;BDELETE;BMOVE;BPROPFIND;LOCK;MERGE;MKCOL;MOVE;NOTIFY;ORDERPATCH;PATCH;POLL;PROPFIND;SEARCH;SUBSCRIBE;UNSUBSCRIBE;UNLOCK] / HTTP /1.2 Host: [random=portal.vivo.com.br;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud;portalrecarga.vivo.com.br/recarga/home/;meuplano.tim.com.br;www.vivo.com.br;buzzfeed.com;mobile.adobe.com;1.0.0.5;1.1.1.1;buzzfeed.com;myspace.com;mobile.google.com;1.0.0.5;spotify.com;pagamentonline.emis.co.ao;playwaze.com;wazer.com;soundwaze.com;escolas.playwaze.com;www.wazeunlimited.com;bucs.playwaze.com;ftp.chillwaze.com;unpkg.com;c6bank.com.br;helpypro.stoodi.com.br;atendimento.lojadointer.com.br;creatorsupport.deezer.com;itsupport.surveymonkey.com;linefriendshelp.zendesk.com;vivo.interflashplusvpnpro.cloud;m2.interflashplusvpnpro.cloud;soilelementhitdrawsit.org;atrytgoi.com;domoneysincemeanquart.org;fontbit.io;teethlistentrainwhosheet.org;vivoturbo.com.br;label.com.co.il.web.whatsapp.com;vivofibra.com.br;unpkg.com;storema.us][lf]Upgrade: websocket[lf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[lf][lf][lf]",
+            "SNI": "",
+            "TlsIP": "",
             "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
          {
-            "Name": "VIVO PRÉ 6",
+            "Name": "🟣 VIVO SECURITY 3🟣",
             "FLAG": "vivo",
-            "Payload": "[delay_split]ACL / HTTP/1.1[crlf]Host: http://[app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "45.140.192.126",
+            "Payload": "[delay_split][crlf]ACL / HTTP/1.1[crlf]Host:whatsapp.com.vivoon.br[crlf]Upgrade: Upgrade[crlf]Connection: [crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
             "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
          {
-            "Name": "VIVO PRÉ 7",
+            "Name": "🟣 VIVO SECURITY 4🟣",
             "FLAG": "vivo",
-            "Payload": "BCOPY / [crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "45.140.192.126",
+            "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random= 104.18.6.80;104.18.7.80;162.159.138.6;162.159.128.7;104.17.70.206;104.17.71.206;104.17.72.206;104.17.73.206;104.17.74.206;172.64.144.109;104.18.43.147;104.18.7.41[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
             "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
          },
          {
-            "Name": "VIVO PRÉ 8",
+            "Name": "VIVO CONTROLE NOVO 1",
             "FLAG": "vivo",
-            "Payload": "PATCH / HTTP/1.9Host: ced.vivo.ddivulga.com Connection: keep-alive User-Agent: [crlf]Referer: http://a.vivo.ddivulga.com/index-tag.html[crlf][crlf]",
-            "SNI": "[app_host]",
-            "TlsIP": "45.140.192.126",
+            "Payload": "ACL / HTTP/1.1[lf]Host: br.familiavpn.shop[lf]Upgrade: Websocket[lf][split][lf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO CONTROLE NOVO 2",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: br.familiavpn.shop[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO CONTROLE NOVO 3",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: br.familiavpn.shop[crlf]Upgrade: websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Direct"
+        },
+        {
+            "Name": "VIVO CONTROLE NOVO 4",
+            "FLAG": "vivo",
+            "Payload": "ACL / HTTP/1.1[crlf]Host: br.familiavpn.shop[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@TSTOPSPEED[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+        },
+        {
+            "Name": "VIVO CONTROLE NOVO 5",
+            "FLAG": "vivo",
+            "Payload": "ACL / HTTP/1.1[crlf]Host: br.familiavpn.shop[crlf]Upgrade: websocket[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]@TSTOPSPEED[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "45.140.192.126",
+            "ProxyPort": "80",
+            "Info": "Direct"
+        },
+        {
+            "Name": "VIVO CONTROLE NOVO 6",
+            "FLAG": "vivo",
+            "Payload": "GET / HTTP/1.1[crlf]Host: br.familiavpn.shop[crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
             "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
