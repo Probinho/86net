@@ -1,5 +1,5 @@
 {
-    "Version": 193,
+    "Version": 195,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86Net v194",
+            "Name": "86Net v195",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -250,7 +250,7 @@
         {
             "Name": "TIM VÁLIDO FRONT 1",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: ds9jxrylgjkgi.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1yo8nqruj0qnj.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
             "ProxyIP": "bounce.mail.planos.tim.com.br",
