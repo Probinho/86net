@@ -1,5 +1,5 @@
 {
-    "Version": 205,
+    "Version": 206,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v205",
+            "Name": "86ИΞΓ v206",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -338,7 +338,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM  EXPIRADO NOVA 3",
+            "Name": "TIM  VALIDO E EXPIRADO 2",
             "FLAG": "tim",
             "Payload": "[random=GET;ACL] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop [lf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
