@@ -1,5 +1,5 @@
 {
-    "Version": 206,
+    "Version": 207,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v206",
+            "Name": "86ИΞΓ v207",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -348,22 +348,22 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO NOVA 4",
+            "Name": "TIM VALIDO E EXPIRADO 4",
             "FLAG": "tim",
-            "Payload": "[lf]ACL / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Server: cloudflare, X-Android-Received-Millis: 1709247688491, X-Android-Response-Source: NETWORK 101, X-Android-Selected-Protocol: http/1.1, X-Android-Sent-Millis: 1709247688185[lf][split][lf]@@@[delay_split]ACL / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Pragma: no-cache[crlf]Cache-Control: no-cache[crlf]ME-CHUPA[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: a.86net.shop [crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "172.64.207.38#104.18.99.70#104.18.27.160",
+            "ProxyIP": "104.18.33.113",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO NOVA 5",
+            "Name": "TIM VALIDO E EXPIRADO 5",
             "FLAG": "tim",
-            "Payload": "[lf]ACL / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Server: cloudflare, X-Android-Received-Millis: 1709247688491, X-Android-Response-Source: NETWORK 101, X-Android-Selected-Protocol: http/1.1, X-Android-Sent-Millis: 1709247688185[lf][split][lf]@@@[delay_split]ACL / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Pragma: no-cache[crlf]Cache-Control: no-cache[crlf]ME-CHUPA[crlf][crlf]",
+            "Payload": "PUT / HTTP/1.1[crlf]Host: a.86net.shop [crlf]Upgrade: Websocket[crlf][crlf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "172.64.207.38#104.18.99.70#104.18.27.160",
+            "ProxyIP": "104.18.33.113",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
