@@ -1,5 +1,5 @@
 {
-    "Version": 207,
+    "Version": 208,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v207",
+            "Name": "86ИΞΓ v208",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -238,52 +238,52 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO CDN",
+            "Name": "TIM VÁLIDO",
             "FLAG": "tim",
-                "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1qg8u2x1hxb7b.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+                "Payload": "ACL / HTTP/1.1[lf]Host: a.86net.shop[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
-            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO CDN 1",
+            "Name": "TIM VÁLIDO 1",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1qg8u2x1hxb7b.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "ACL / HTTP/1.1[lf]Host: a.86net.shop[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
-            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO CDN 2",
+            "Name": "TIM VÁLIDO 2",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1qg8u2x1hxb7b.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "ACL / HTTP/1.1[lf]Host: a.86net.shop[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
-            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM VÁLIDO CDN 3",
+            "Name": "TIM VÁLIDO 3",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1qg8u2x1hxb7b.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "ACL / HTTP/1.1[lf]Host: a.86net.shop[lf]Upgrade: Websocket[lf]User-Agent: Mobile Safari/9 OPR/9 [lf][split][lf]",
             "SNI": "",
             "TlsIP": "86servidor",
-            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO CDN ",
+            "Name": "TIM EXPIRADO NOVA ",
             "FLAG": "tim",
-            "Payload": "GET /86servidor HTTP/1.1[crlf]Host: bounce.mail.planos.tim.com.br[lf] [lf]GET /86servidor HTTP/1.1[lf]Host: d1qg8u2x1hxb7b.cloudfront.net[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
+            "Payload": "ACL /index.html HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: websocket[crlf][crlf]#[split]MERGE summit.adobe.com HTTP/1.1[crlf]Host: a.86net.shop[crlf]Connection: upgrade, Keep-Alive[crlf]Upgrade: HTTP/2.0[crlf]User-Agent: Googlebot/2.1 (+ http://www.google.com/bot.html)[crlf]Referenciador : http://www.google.com [crlf]",
             "SNI": "",
             "TlsIP": "86servidor",
-            "ProxyIP": "bounce.mail.planos.tim.com.br",
+            "ProxyIP": "mtls.sandbox.c6bank.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
