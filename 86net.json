@@ -1,5 +1,5 @@
 {
-    "Version": 208,
+    "Version": 209,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v208",
+            "Name": "86ИΞΓ v209",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -57,9 +57,9 @@
             "Info": "Proxy"
          },
          {
-            "Name": "VIVO PRÉ 1",
+            "Name": "VIVO PRÉ NOVO",
             "FLAG": "vivo",
-            "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
+            "Payload": "[split]ACL / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -68,9 +68,9 @@
          },
          {
          
-            "Name": "VIVO PRÉ 2",
+            "Name": "VIVO PRÉ NOVO 1",
             "FLAG": "vivo",
-            "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
+            "Payload": "[split]ACL \/ HTTP\/1.1[crlf]Host: http:\/\/sdp.vivo.com.br/[crlf]Connection: Upgrade[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -78,9 +78,9 @@
             "Info": "Proxy"
          },
          {
-            "Name": "VIVO PRÉ 3",
+            "Name": "VIVO PRÉ NOVO 2",
             "FLAG": "vivo",
-            "Payload": "PATCH / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "[split]ACL / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
@@ -90,7 +90,7 @@
         {
            "Name": "VIVO PRÉ 4",
             "FLAG": "vivo",
-            "Payload": "PATCH / HTTP/1.1[crlf]Host: a.86net.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+            "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
             "SNI": "[app_host]",
             "TlsIP": "45.140.192.126",
             "ProxyIP": "45.140.192.126",
