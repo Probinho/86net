@@ -1,5 +1,5 @@
 {
-    "Version": 212,
+    "Version": 213,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v212",
+            "Name": "86ИΞΓ v213",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -190,10 +190,7 @@
         {
             "Name": "TIM G-CLOUD",
             "FLAG": "tim",
-            "Payload": "GET /app109 HTTP/1.1
-Host: temporariogcloud5-344587878630.us-central1.run.app
-Connection: Upgrade
-Upgrade: Websocket\n\n",
+            "Payload": "GET /app109 HTTP/1.1Host: temporariogcloud5-344587878630.us-central1run.appConnection: UpgradeUpgrade: Websocket\n\n",
             "SNI": "pubsub.googleapis.com",
             "TlsIP": "TLSv1.2",
             "ProxyIP": "pubsub.googleapis.com",
