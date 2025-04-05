@@ -1,5 +1,5 @@
 {
-    "Version": 235,
+    "Version": 236,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v235",
+            "Name": "86ИΞΓ v236",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -150,10 +150,7 @@
          {
                "Name": "VIVO GCLOUD [01]",
                "FLAG": "vivo",
-               "Payload": "GET /app109 HTTP/1.1
-Host: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]
-Connection: Upgrade
-Upgrade: Websocket\n\n",
+               "Payload": "GET /app109 HTTP/1.1\r\nHost: e-481592672936.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
               "SNI": "youtube.com",
               "TlsIP": "youtube.com",
               "ProxyIP": "youtube.com",
@@ -163,10 +160,7 @@ Upgrade: Websocket\n\n",
         {
              "Name": "VIVO GCLOUD [02]",
              "FLAG": "vivo",
-             "Payload": "GET /app109 HTTP/1.1
-Host: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]
-Connection: Upgrade
-Upgrade: Websocket\n\n",
+             "Payload": "GET /app109 HTTP/1.1\r\nHost: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -175,24 +169,18 @@ Upgrade: Websocket\n\n",
         },
         {
             "Name": "TIM GCLOUD [01]",
-            "FLAG": "tim",
-            "Payload": "GET /app109 HTTP/1.1
-Host: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]
-Connection: Upgrade
-Upgrade: Websocket\n\n",
-           "SNI": "pubsub.googleapis.com",
-           "TlsIP": "pubsub.googleapis.com",
-           "ProxyIP": "pubsub.googleapis.com",
-           "ProxyPort": "443",
-           "Info": "Tlsws"
+    "FLAG": "tim",
+    "Payload": "GET /app109 HTTP/1.1\r\nHost: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+    "SNI": "pubsub.googleapis.com",
+    "TlsIP": "pubsub.googleapis.com",
+    "ProxyIP": "pubsub.googleapis.com",
+    "ProxyPort": "443",
+    "Info": "Tlsws"
         },
         {
             "Name": "TIM GCLOUD [02]",
     "FLAG": "tim",
-    "Payload": "GET /app109 HTTP/1.1
-Host: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]
-Connection: Upgrade
-Upgrade: Websocket\n\n",
+    "Payload": "GET /app109 HTTP/1.1\r\nHost: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "pubsub.googleapis.com",
              "TlsIP": "pubsub.googleapis.com",
              "ProxyIP": "pubsub.googleapis.com",
@@ -202,13 +190,10 @@ Upgrade: Websocket\n\n",
         {
             "Name": "TIM GCLOUD [03]",
     "FLAG": "tim",
-    "Payload": "GET /app109 HTTP/1.1
-Host: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]
-Connection: Upgrade
-Upgrade: Websocket\n\n",
-             "SNI": "pubsub.googleapis.com#www.googletagmanager.com#pubsub.googleapis.com",
+    "Payload": "GET /app109 HTTP/1.1\r\nHost: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+             "SNI": "www.googletagmanager.com",
              "TlsIP": "www.googletagmanager.com",
-             "ProxyIP": "pubsub.googleapis.com#www.googletagmanager.com#pubsub.googleapis.com",
+             "ProxyIP": "www.googletagmanager.com",
              "ProxyPort": "443",
              "Info": "Tlsws"
         },
@@ -405,10 +390,7 @@ Upgrade: Websocket\n\n",
         {
                 "Name": "CLARO GCLOUD [02]",
                 "FLAG": "claro",
-                "Payload": "GET /app109 HTTP/1.1
-Host: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]
-Connection: Upgrade
-Upgrade: Websocket\n\n",
+                "Payload": "GET /app109 HTTP/1.1\r\nHost: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]\r\nUpgrade: Websocket\\n\\n",
                "SNI": "www-claro-com-br.cdn.ampproject.org",
                "TlsIP": "www-claro-com-br.cdn.ampproject.org",
                "ProxyIP": "www-claro-com-br.cdn.ampproject.org",
