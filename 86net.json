@@ -1,5 +1,5 @@
 {
-    "Version": 234,
+    "Version": 235,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v234",
+            "Name": "86ИΞΓ v235",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -206,9 +206,9 @@ Upgrade: Websocket\n\n",
 Host: [random=eqacshq-465854547914.southamerica-east1.run.app;e-465854547914.southamerica-east1.run.app]
 Connection: Upgrade
 Upgrade: Websocket\n\n",
-             "SNI": "www.googletagmanager.com",
+             "SNI": "pubsub.googleapis.com#www.googletagmanager.com#pubsub.googleapis.com",
              "TlsIP": "www.googletagmanager.com",
-             "ProxyIP": "www.googletagmanager.com",
+             "ProxyIP": "pubsub.googleapis.com#www.googletagmanager.com#pubsub.googleapis.com",
              "ProxyPort": "443",
              "Info": "Tlsws"
         },
