@@ -1,5 +1,5 @@
 {
-    "Version": 248,
+    "Version": 249,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v248",
+            "Name": "86ИΞΓ v249",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -308,12 +308,12 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM  VALIDO E EXPIRADO 2",
+            "Name": "✨TIM EXPIRADO ✨",
             "FLAG": "tim",
-            "Payload": "[random=GET;ACL] / HTTP/1.1[lf]Host: revive.timrecompensas.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: a.86net.shop [lf]Upgrade: Websocket[crlf][crlf]",
+            "Payload": "HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf]",
             "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "104.18.36.19",
+            "TlsIP": "mjnet.website",
+            "ProxyIP": "mjnet.website",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
