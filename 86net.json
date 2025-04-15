@@ -1,5 +1,5 @@
 {
-    "Version": 256,
+    "Version": 257,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v256",
+            "Name": "86ИΞΓ v257",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -149,13 +149,13 @@
          },
          {
                "Name": "VIVO GCLOUD [01]",
-               "FLAG": "vivo",
-               "Payload": "GET /app109 HTTP/1.1Host:ev5mfn9-664847321997.northamerica-south1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\n\n",
-              "SNI": "lh3.google.com.br",
-              "TlsIP": "lh3.google.com.br",
-              "ProxyIP": "lh3.google.com.br",
-              "ProxyPort": "443",
-              "Info": "Tlsws"
+             "FLAG": "vivo",
+             "Payload": "GET /app109 HTTP/1.1\r\nHost: [random=ev5mfn9-664847321997.northamerica-south1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+             "SNI": "lh3.google.com.br",
+             "TlsIP": "lh3.google.com.br",
+             "ProxyIP": "lh3.google.com.br",
+             "ProxyPort": "443",
+             "Info": "Tlsws"
         },
         {
              "Name": "VIVO GCLOUD [02]",
