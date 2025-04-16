@@ -1,5 +1,5 @@
 {
-    "Version": 266,
+    "Version": 267,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v266",
+            "Name": "86ИΞΓ v267",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -88,26 +88,6 @@
             "Info": "Proxy"
         },
         {
-           "Name": "VIVO PRÉ ",
-            "FLAG": "vivo",
-            "Payload": "[split]ACL / HTTP/1.1\nHost: HTTP-DNS:1.1.1.1;1.0.0.1;8.8.8.8\nUpgrade: Websocket\n\n",
-            "SNI": "[app_host]",
-            "TlsIP": "45.140.192.126",
-            "ProxyIP": "45.140.192.126",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-           "Name": "🟣 VIVO SECURITY 🟣",
-            "FLAG": "vivo",
-            "Payload": "[delay_split] ACL / HTTP/1.1[crlf]Host:[random=vivoproxy.gdmnet.pro][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
-            "SNI": "",
-            "TlsIP": "",
-            "ProxyIP": "45.140.192.126",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-         },
-         {         
              "Name": "VIVO GCLOUD [01]",
              "FLAG": "vivo",
              "Payload": "GET /app109 HTTP/1.1\r\nHost: [rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
@@ -145,9 +125,13 @@
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
              "ProxyPort": "443",
-             "Info": "Tlsws""Name": "TIM GCLOUD [01]",
-    "FLAG": "tim",
-    "Payload": "GET /app109 HTTP/1.1\r\nHost: [rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+             "Info": "Tlsws"
+        },
+        {
+             
+             "Name": "TIM GCLOUD [01]",
+             "FLAG": "tim",
+             "Payload": "GET /app109 HTTP/1.1\r\nHost: [rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
     "SNI": "pubsub.googleapis.com",
     "TlsIP": "pubsub.googleapis.com",
     "ProxyIP": "pubsub.googleapis.com",
