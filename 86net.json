@@ -1,5 +1,5 @@
 {
-    "Version": 258,
+    "Version": 259,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v258",
+            "Name": "86ИΞΓ v259",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -150,7 +150,7 @@
          {
                "Name": "VIVO GCLOUD [01]",
              "FLAG": "vivo",
-             "Payload": "[rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]",
+             "Payload": "GET /app109 HTTP/1.1Host:[rotate=ey9gsj1-581834686703.southamericaeast1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]Connection: UpgradeUpgrade: Websocket\n\n",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -160,7 +160,7 @@
         {
              "Name": "VIVO GCLOUD [02]",
              "FLAG": "vivo",
-             "Payload": "[rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]",
+             "Payload": "GET /app109 HTTP/1.1Host:[rotate=ey9gsj1-581834686703.southamericaeast1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]Connection: UpgradeUpgrade: Websocket\n\n",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -170,7 +170,7 @@
         {
             "Name": "TIM GCLOUD [01]",
     "FLAG": "tim",
-    "Payload": "[rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]",
+    "Payload": "GET /app109 HTTP/1.1Host:[rotate=ey9gsj1-581834686703.southamericaeast1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]Connection: UpgradeUpgrade: Websocket\n\n",
     "SNI": "pubsub.googleapis.com",
     "TlsIP": "pubsub.googleapis.com",
     "ProxyIP": "pubsub.googleapis.com",
@@ -180,7 +180,7 @@
         {
             "Name": "TIM GCLOUD [02]",
     "FLAG": "tim",
-    "Payload": "[rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]",
+    "Payload": "GET /app109 HTTP/1.1Host:[rotate=ey9gsj1-581834686703.southamericaeast1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]Connection: UpgradeUpgrade: Websocket\n\n",
              "SNI": "pubsub.googleapis.com",
              "TlsIP": "pubsub.googleapis.com",
              "ProxyIP": "pubsub.googleapis.com",
@@ -190,7 +190,7 @@
         {
             "Name": "TIM GCLOUD [03]",
     "FLAG": "tim",
-    "Payload": "[rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]",
+    "Payload": "GET /app109 HTTP/1.1Host:[rotate=ey9gsj1-581834686703.southamericaeast1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]Connection: UpgradeUpgrade: Websocket\n\n",
              "SNI": "www.googletagmanager.com",
              "TlsIP": "www.googletagmanager.com",
              "ProxyIP": "www.googletagmanager.com",
@@ -361,7 +361,7 @@
         {
                 "Name": "CLARO GCLOUD [02]",
                 "FLAG": "claro",
-                "Payload": "[rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]",
+                "Payload": "GET /app109 HTTP/1.1Host:[rotate=ey9gsj1-581834686703.southamericaeast1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]Connection: UpgradeUpgrade: Websocket\n\n",
                "SNI": "www-claro-com-br.cdn.ampproject.org",
                "TlsIP": "www-claro-com-br.cdn.ampproject.org",
                "ProxyIP": "www-claro-com-br.cdn.ampproject.org",
