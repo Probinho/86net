@@ -1,5 +1,5 @@
 {
-    "Version": 268,
+    "Version": 269,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v268",
+            "Name": "86ИΞΓ v269",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -131,8 +131,7 @@
              
              "Name": "TIM GCLOUD [01]",
              "FLAG": "tim",
-             "Payload": "GET /app109 HTTP/1.1\r\nHost: [rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
-    "SNI": "pubsub.googleapis.com",
+             "Payload": "GET /app109 HTTP/1.1\r\nHost: [rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
     "TlsIP": "pubsub.googleapis.com",
     "ProxyIP": "pubsub.googleapis.com",
     "ProxyPort": "443",
@@ -141,7 +140,7 @@
         {
             "Name": "TIM GCLOUD [02]",
     "FLAG": "tim",
-    "Payload": "GET /app109 HTTP/1.1\r\nHost: [rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+    "Payload": "GET /app109 HTTP/1.1\r\nHost: [rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
     "SNI": "pubsub.googleapis.com",
     "TlsIP": "pubsub.googleapis.com",
     "ProxyIP": "pubsub.googleapis.com",
@@ -151,7 +150,7 @@
         {
             "Name": "TIM GCLOUD [03]",
     "FLAG": "tim",
-    "Payload": "GET /app109 HTTP/1.1\r\nHost: [rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+    "Payload": "GET /app109 HTTP/1.1\r\nHost: [rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
     "SNI": "pubsub.googleapis.com",
     "TlsIP": "pubsub.googleapis.com",
     "ProxyIP": "pubsub.googleapis.com",
@@ -161,7 +160,7 @@
         {
             "Name": "TIM GCLOUD [04]",
     "FLAG": "tim",
-    "Payload": "GET /app109 HTTP/1.1\r\nHost: [rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+    "Payload": "GET /app109 HTTP/1.1\r\nHost: [rotate=ey9gsj1-581834686703.southamerica-east1.run.app;ev5mfn9-664847321997.southamerica-east1.run.app;eh3xud9-613373495263.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app;e0zjxja-728165357744.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
     "SNI": "pubsub.googleapis.com",
     "TlsIP": "pubsub.googleapis.com",
     "ProxyIP": "pubsub.googleapis.com",
