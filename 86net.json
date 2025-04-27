@@ -1,5 +1,5 @@
 {
-    "Version": 281,
+    "Version": 282,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v281",
+            "Name": "86ИΞΓ v282",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -90,7 +90,7 @@
         {
              "Name": "VIVO GCLOUD [01]",
              "FLAG": "vivo",
-             "Payload": "GET /app108 HTTP/1.1\r\nHost: luffynika-133891883492.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+             "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -100,7 +100,7 @@
         {
              "Name": "VIVO GCLOUD [02]",
              "FLAG": "vivo",
-             "Payload": "GET /app108 HTTP/1.1\r\nHost: luffynika-133891883492.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+             "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -110,7 +110,7 @@
         {
             "Name": "VIVO GCLOUD [03]",
              "FLAG": "vivo",
-             "Payload": "GET /app108 HTTP/1.1\r\nHost: luffynika-133891883492.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+             "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -120,7 +120,7 @@
         {
              "Name": "VIVO GCLOUD [04]",
              "FLAG": "vivo",
-             "Payload": "GET /app108 HTTP/1.1\r\nHost: luffynika-133891883492.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+             "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -131,7 +131,7 @@
              
                "Name": "TIM GCLOUD [01]",
                "FLAG": "tim",
-               "Payload": "GET /app108 HTTP/1.1\r\nHost: luffynika-133891883492.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+               "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
               "SNI": "www.googletagmanager.com",
               "TlsIP": "www.googletagmanager.com",
               "ProxyIP": "www.googletagmanager.com",
@@ -141,7 +141,7 @@
         {
                "Name": "TIM GCLOUD [02]",
                "FLAG": "tim",
-               "Payload": "GET /app108 HTTP/1.1\r\nHost: luffynika-133891883492.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+               "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "www.googletagmanager.com",
              "TlsIP": "www.googletagmanager.com",
              "ProxyIP": "www.googletagmanager.com",
@@ -151,7 +151,7 @@
         {
             "Name": "TIM GCLOUD [03]",
                "FLAG": "tim",
-               "Payload": "GET /app108 HTTP/1.1\r\nHost:luffynika-133891883492.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+               "Payload": "GET /app108 HTTP/1.1\r\nHost:caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "www.googletagmanager.com",
              "TlsIP": "www.googletagmanager.com",
              "ProxyIP": "www.googletagmanager.com",
@@ -161,7 +161,7 @@
         {
             "Name": "TIM GCLOUD [04]",
                "FLAG": "tim",
-               "Payload": "GET /app108 HTTP/1.1\r\nHost: luffynika-133891883492.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+               "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "www.googletagmanager.com",
              "TlsIP": "www.googletagmanager.com",
              "ProxyIP": "www.googletagmanager.com",
@@ -219,18 +219,7 @@
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO ☆0☆",
-            "FLAG": "tim",
-            "Payload": "HTTP/1.1 200 OK [crlf]",
-            "SNI": "",
-            "TlsIP": "166.0.196.163",
-            "ProxyIP": "166.0.196.163#a.avclaro.com.br",
-            "ProxyPort": "80",
-            "Info": "Proxy"
-        },
-        {
-            
-              "Name": " TIM VALIDO E EXPIRADO 1",
+            "Name": " TIM VALIDO E EXPIRADO 1",
             "FLAG": "tim",
             "Payload": "PATCH / HTTP/1.1[crlf]Host: a.86net.shop [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
             "SNI": "",
@@ -242,32 +231,32 @@
         },
         {
            
-            "Name": "TIM EXPIRADO ☆01☆",
+            "Name": "TIM EXPIRADO ♧02♧",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1 200 OK [crlf]",
+            "Payload": "HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf]#HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=yhjq23.360.com.fail;alt4.aspmx.l.google.com;www.xhtsw.163.com.fail;www.storm.canny.io;www.reimaginetomorrow-qa.disney.com;www.minecraft.msgfocus.com;www.netflixawards.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;aspmx.l.google.com.469.it. 20secondenhandenwassen.nl;aspmx.l.google.com.469.it;alt2.aspmx.l.google.com.0088.tv;alt1.aspmx.l.google.com.123sexshop.be;alt2.aspmx.l.google.com.sac-surveyors.org;alt2.aspmx.l.google.com.meta-meta.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]@",
             "SNI": "",
             "TlsIP": "166.0.196.163",
-            "ProxyIP": "166.0.196.163#a.avclaro.com.br",
+            "ProxyIP": "166.0.196.163",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO ☆02☆",
+            "Name": "TIM EXPIRADO MINAS 3",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1 200 OK [crlf]",
+            "Payload": "HTTP/1.1 200[crlf]Host: vimeo.com[crlf][crlf][netData][crlf]@mip [crlf][crlf]http://uber.com/ HTTP/1.1 200[crlf]mip[crlf][crlf] [crlf][crlf]http://udemy.com/ HTTP/1.1 200[crlf]Host@mip[crlf][crlf] [crlf][crlf] http://aliyuncs.com/ HTTP/1.1 200[crlf]Host fastly.net/[crlf][crlf][netData][crlf] [crlf][crlf] http://pornhub.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf][crlf] http://google.com/ HTTP/1.1[cr][lf] [crlf][crlf][netData][cr][lf] [crlf][crlf]CONNECT mip:22@http://youtube.com/ HTTP/1.1[crlf] [crlf][crlf][netData][crlf] [crlf]#HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=yhjq23.360.com.fail;alt4.aspmx.l.google.com;www.xhtsw.163.com.fail;www.storm.canny.io;www.reimaginetomorrow-qa.disney.com;www.minecraft.msgfocus.com;www.netflixawards.com;x115gzbrpk.execute-api.us-east-1.amazonaws.com;google.traiteurjongen.com;aspmx.l.google.com.4xfun.com;aspmx.l.google.com.469.it. 20secondenhandenwassen.nl;aspmx.l.google.com.469.it;alt2.aspmx.l.google.com.0088.tv;alt1.aspmx.l.google.com.123sexshop.be;alt2.aspmx.l.google.com.sac-surveyors.org;alt2.aspmx.l.google.com.meta-meta.com;slcch03bl9.execute-api.us-east-1.amazonaws.com][lf]@",
             "SNI": "",
             "TlsIP": "166.0.196.163",
-            "ProxyIP": "166.0.196.163#a.avclaro.com.br",
+            "ProxyIP": "166.0.196.163",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
         {
-            "Name": "TIM EXPIRADO ☆03☆",
+            "Name": "??Tim Expirado 05??",
             "FLAG": "tim",
-            "Payload": "HTTP/1.1 200 OK [crlf]",
+            "Payload": "HTTP/1.1[lf]HTTP/ [lf]Host: [rotate=www.flickr.com;foxnews.com;www.uc.com;tv.com;netfix.com;palcomp3.com;m.operamini.com;m.olx.com.br;www.sky.com;www.waze.com;ff.garena.com;www.hooq.tv;www.terra.com;salesrock.virginmobile.mx;www.yahoo.com;imgur.com;get.adobe.com;youtube.com;google.com;instagram.com;microsoft.com;akamai.net;1.cloudfront.net;www.dropbox.com][lf]",
             "SNI": "",
-            "TlsIP": "166.0.196.163",
-            "ProxyIP": "166.0.196.163#a.avclaro.com.br",
+            "TlsIP": "",
+            "ProxyIP": "45.140.192.126",
             "ProxyPort": "80",
             "Info": "Proxy"
 
