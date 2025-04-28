@@ -1,5 +1,5 @@
 {
-    "Version": 286,
+    "Version": 287,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v286",
+            "Name": "86ИΞΓ v287",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -235,8 +235,8 @@
             "FLAG": "tim",
             "Payload": "HTTP/1.1 200 OK [crlf]",
             "SNI": "",
-            "TlsIP": "177.136.248.55",
-            "ProxyIP": "177.136.248.55",
+            "TlsIP": "a.avclaro.com.br",
+            "ProxyIP": "a.avclaro.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -245,8 +245,8 @@
             "FLAG": "tim",
             "Payload": "HTTP/1.1 200 OK [crlf]",
             "SNI": "",
-            "TlsIP": "177.136.248.55",
-            "ProxyIP": "177.136.248.55",
+            "TlsIP": "a.avclaro.com.br",
+            "ProxyIP": "a.avclaro.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -255,8 +255,8 @@
             "FLAG": "tim",
             "Payload": "HTTP/1.1 200 OK [crlf]",
             "SNI": "",
-            "TlsIP": "177.136.248.55",
-            "ProxyIP": "177.136.248.55",
+            "TlsIP": "a.avclaro.com.br",
+            "ProxyIP": "a.avclaro.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
 
