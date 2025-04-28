@@ -1,5 +1,5 @@
 {
-    "Version": 284,
+    "Version": 285,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v284",
+            "Name": "86ИΞΓ v285",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -236,7 +236,7 @@
             "Payload": "HTTP/1.1 200 OK [crlf]",
             "SNI": "",
             "TlsIP": "177.136.248.55",
-            "ProxyIP": "177.136.248.55",
+            "ProxyIP": "38.46.142.197#177.136.248.55",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
@@ -245,7 +245,7 @@
             "FLAG": "tim",
             "Payload": "HTTP/1.1 200 OK [crlf]",
             "SNI": "",
-            "TlsIP": "177.136.248.55",
+            "TlsIP": "38.46.142.197#177.136.248.55",
             "ProxyIP": "177.136.248.55",
             "ProxyPort": "80",
             "Info": "Proxy"
@@ -255,7 +255,7 @@
             "FLAG": "tim",
             "Payload": "HTTP/1.1 200 OK [crlf]",
             "SNI": "",
-            "TlsIP": "177.136.248.55",
+            "TlsIP": "38.46.142.197#177.136.248.55",
             "ProxyIP": "177.136.248.55",
             "ProxyPort": "80",
             "Info": "Proxy"
