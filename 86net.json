@@ -1,5 +1,5 @@
 {
-    "Version": 289,
+    "Version": 290,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v289",
+            "Name": "86ИΞΓ v290",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -90,7 +90,7 @@
         {
              "Name": "VIVO GCLOUD [01]",
              "FLAG": "vivo",
-             "Payload": "GET /app108 HTTP/1.1\nHost: [host]\nConnection: Upgrade\nUpgrade: Websocket\\n\\n",
+             "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -100,7 +100,7 @@
         {
              "Name": "VIVO GCLOUD [02]",
              "FLAG": "vivo",
-             "Payload": "GET /app108 HTTP/1.1\nHost: [host]\nConnection: Upgrade\nUpgrade: Websocket\\n\\n",
+             "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -110,7 +110,7 @@
         {
             "Name": "VIVO GCLOUD [03]",
              "FLAG": "vivo",
-             "Payload": "GET /app108 HTTP/1.1\nHost: [host]\nConnection: Upgrade\nUpgrade: Websocket\\n\\n",
+             "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -120,7 +120,7 @@
         {
              "Name": "VIVO GCLOUD [04]",
              "FLAG": "vivo",
-             "Payload": "GET /app108 HTTP/1.1\nHost: [host]\nConnection: Upgrade\nUpgrade: Websocket\\n\\n",
+             "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -131,7 +131,7 @@
              
                "Name": "TIM GCLOUD [01]",
                "FLAG": "tim",
-               "Payload": "GET /app108 HTTP/1.1\nHost: [host]\nConnection: Upgrade\nUpgrade: Websocket\\n\\n",
+               "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
               "SNI": "www.googletagmanager.com",
               "TlsIP": "www.googletagmanager.com",
               "ProxyIP": "www.googletagmanager.com",
@@ -141,7 +141,7 @@
         {
                "Name": "TIM GCLOUD [02]",
                "FLAG": "tim",
-               "Payload": "GET /app108 HTTP/1.1\nHost: [host]\nConnection: Upgrade\nUpgrade: Websocket\\n\\n",
+               "Payload": "GET /app108 HTTP/1.1\r\nHost: caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "www.googletagmanager.com",
              "TlsIP": "www.googletagmanager.com",
              "ProxyIP": "www.googletagmanager.com",
@@ -151,7 +151,7 @@
         {
             "Name": "TIM GCLOUD [03]",
                "FLAG": "tim",
-               "Payload": "GET /app108 HTTP/1.1\nHost: [host]\nConnection: Upgrade\nUpgrade: Websocket\\n\\n",
+               "Payload": "GET /app108 HTTP/1.1\r\nHost:caramelo-1003799383648.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
              "SNI": "www.googletagmanager.com",
              "TlsIP": "www.googletagmanager.com",
              "ProxyIP": "www.googletagmanager.com",
