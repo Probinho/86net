@@ -1,5 +1,5 @@
 {
-    "Version": 298,
+    "Version": 299,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v298",
+            "Name": "86ИΞΓ v299",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -120,7 +120,11 @@
         {
              "Name": "VIVO GCLOUD [01]",
              "FLAG": "vivo",
-             "Payload": "GET /app112 HTTP/1.1Host: [rotate=e-14857056919.southamerica-east1.run.app;e-211452790298.southamerica-east1.run.app]Connection: Upgrade Upgrade: websocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+             "Payload": "GET /app112 HTTP/1.1
+Host: [rotate=e-14857056919.southamerica-east1.run.app;e-211452790298.southamerica-east1.run.app]
+Connection: Upgrade
+Upgrade: websocket
+User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -130,7 +134,11 @@
         {
              "Name": "VIVO GCLOUD [02]",
              "FLAG": "vivo",
-             "Payload": "GET /app112 HTTP/1.1Host: [rotate=e-14857056919.southamerica-east1.run.app;e-211452790298.southamerica-east1.run.app]Connection: Upgrade Upgrade: websocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+             "Payload": "GET /app112 HTTP/1.1
+Host: [rotate=e-14857056919.southamerica-east1.run.app;e-211452790298.southamerica-east1.run.app]
+Connection: Upgrade
+Upgrade: websocket
+User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -140,7 +148,11 @@
         {
             "Name": "VIVO GCLOUD [03]",
              "FLAG": "vivo",
-             "Payload": "GET /app112 HTTP/1.1Host: [rotate=e-14857056919.southamerica-east1.run.app;e-211452790298.southamerica-east1.run.app]Connection: Upgrade Upgrade: websocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+             "Payload": "GET /app112 HTTP/1.1
+Host: [rotate=e-14857056919.southamerica-east1.run.app;e-211452790298.southamerica-east1.run.app]
+Connection: Upgrade
+Upgrade: websocket
+User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
              "SNI": "lh3.google.com.br",
              "TlsIP": "lh3.google.com.br",
              "ProxyIP": "lh3.google.com.br",
@@ -151,9 +163,9 @@
              "Name": "VIVO GCLOUD [04]",
              "FLAG": "vivo",
              "Payload": "GET /app112 HTTP/1.1Host: [rotate=e-14857056919.southamerica-east1.run.app;e-211452790298.southamerica-east1.run.app]Connection: Upgrade Upgrade: websocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]n",
-             "SNI": "lh3.google.com.br",
+             "SNI": "youtube.com",
              "TlsIP": "lh3.google.com.br",
-             "ProxyIP": "lh3.google.com.br",
+             "ProxyIP": "youtube.com",
              "ProxyPort": "443",
              "Info": "Tlsws"
         },
