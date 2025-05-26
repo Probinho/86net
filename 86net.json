@@ -1,5 +1,5 @@
 {
-    "Version": 301,
+    "Version": 302,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v301",
+            "Name": "86ИΞΓ v302",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.86net.shop",
@@ -161,7 +161,7 @@
 
         },
         {
-            "Name": " TIM EXPIRADO MINAS NOVO 1",
+            "Name": " TIM EXPIRADO MINAS NOVO  1",
             "FLAG": "tim",
             "Payload": "[crlf]HTTP/ 2[crlf]HOST : m.opera.com[crlf][crlf]",
             "SNI": "",
@@ -173,6 +173,51 @@
         },
         {
             "Name": " TIM EXPIRADO MINAS  NOVO 2",
+            "FLAG": "tim",
+            "Payload": "[crlf]HTTP/ 2[crlf]HOST : m.opera.com[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "a.avclaro.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+
+        },
+        {
+        
+          "Name": "TIM EXPIRADO MINAS 1 ",
+            "FLAG": "tim",
+            "Payload": "HTTP/1.1 200 OK [crlf]",
+            "SNI": "",
+            "TlsIP": "a.avclaro.com.br",
+            "ProxyIP": "a.avclaro.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+            
+        },
+        {    
+            "Name": " TIM EXPIRADO MINAS 2",
+            "FLAG": "tim",
+            "Payload": "[crlf]HTTP/ 2[crlf]HOST : m.opera.com[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "a.avclaro.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+
+        },
+        {
+            "Name": " TIM EXPIRADO MINAS 3",
+            "FLAG": "tim",
+            "Payload": "[crlf]HTTP/ 2[crlf]HOST : m.opera.com[crlf][crlf]",
+            "SNI": "",
+            "TlsIP": "",
+            "ProxyIP": "a.avclaro.com.br",
+            "ProxyPort": "80",
+            "Info": "Proxy"
+
+        },
+        {
+            "Name": " TIM EXPIRADO MINAS 4",
             "FLAG": "tim",
             "Payload": "[crlf]HTTP/ 2[crlf]HOST : m.opera.com[crlf][crlf]",
             "SNI": "",
