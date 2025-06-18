@@ -1,5 +1,5 @@
 {
-    "Version": 305,
+    "Version": 306,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v305",
+            "Name": "86ИΞΓ v306",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.avclaro.com.br",
@@ -130,7 +130,7 @@
         {
             "Name": "TIM GCLOUD [01]",
     "FLAG": "tim",
-    "Payload": "GET /app112 HTTP/1.1\r\nHost: e-1040039040159.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+    "Payload": "GET /app112 HTTP/1.1\r\nHost: e-1040039040159.southamerica-east1.run.app.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com#pubsub.googleapis.com",
@@ -198,12 +198,12 @@
             "Info": "Proxy"
         },
         {
-            "Name": " TIM VALIDO E EXPIRADO",
+            "Name": " TIM EXPIRADO TODOS DDD's ",
             "FLAG": "tim",
-            "Payload": "ACL / HTTP/1.1[lf]Host: a.avclaro.com.br [lf]Upgrade: Websocket[lf][split][lf]",
+            "Payload": "[delay_split]HTTP/1.1 200 WebSocket[lf][lf]",
             "SNI": "",
             "TlsIP": "",
-            "ProxyIP": "104.18.36.19",
+            "ProxyIP": "a.avclaro.com.br",
             "ProxyPort": "80",
             "Info": "Proxy"
         },
