@@ -1,5 +1,5 @@
 {
-    "Version": 306,
+    "Version": 307,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v306",
+            "Name": "86ИΞΓ v307",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.avclaro.com.br",
@@ -49,7 +49,7 @@
         {
             "Name": "🟣 VIVO GCLOUD [01]",
     "FLAG": "vivo",
-    "Payload": "GET /app112 HTTP/1.1\r\nHost: e-1040039040159.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+    "Payload": "GET /app112 HTTP/1.1\r\nHost: proxy-e-102814795416.southamerica-east1.run.app: Websocket\\n\\n",
     "SNI": "youtube.com",
     "TlsIP": "youtube.com",
     "ProxyIP": "youtube.com",
@@ -59,7 +59,7 @@
         {
             "Name": "🟣 VIVO GCLOUD [02]",
     "FLAG": "vivo",
-    "Payload": "GET /app112 HTTP/1.1\r\nHost: e-1040039040159.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+    "Payload": "GET /app112 HTTP/1.1\r\nHost: proxy-e-102814795416.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com",
@@ -140,7 +140,7 @@
         {
             "Name": "TIM GCLOUD [02]",
     "FLAG": "tim",
-    "Payload": "GET /app112 HTTP/1.1\r\nHost: e-1040039040159.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+    "Payload": "GET /app112 HTTP/1.1\r\nHost: proxy-e-102814795416.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
     "SNI": "www.c6bank.com.br",
     "TlsIP": "www.c6bank.com.br",
     "ProxyIP": "www.c6bank.com.br#youtube.com#lh3.google.com.br#pubsub.googleapis.com#www.googletagmanager.com#www.timnegocia.com.br#www.timnegocia.com.br#172.217.28.72#172.217.28.136#172.217.28.200#172.217.29.72mail2.gmodules.com#101.ig.gmodules.com#www2.gmodules.com#webdisk.gmodules.com#sslvpn.gmodules.com#www-claro-com-br.cdn.ampproject.org#claropayprd.page.link",
@@ -150,7 +150,7 @@
         {
             "Name": "TIM GCLOUD [03]",
     "FLAG": "tim",
-    "Payload": "GET /app112 HTTP/1.1\r\nHost: e-1040039040159.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+    "Payload": "GET /app112 HTTP/1.1\r\nHost: proxy-e-102814795416.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com",
@@ -205,7 +205,7 @@
             "TlsIP": "",
             "ProxyIP": "a.avclaro.com.br",
             "ProxyPort": "80",
-            "Info": "Proxy"
+            "Info": "a.avclaro.com.br"
         },
         {
             "Name": " TIM VALIDO E EXPIRADO 1",
