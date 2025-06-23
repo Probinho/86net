@@ -1,5 +1,5 @@
 {
-    "Version": 311,
+    "Version": 312,
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v311",
+            "Name": "86ИΞΓ v312",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.avclaro.com.br",
@@ -150,7 +150,9 @@
         {
             "Name": "TIM GCLOUD [03]",
     "FLAG": "tim",
-    "Payload": "GET /app112 HTTP/1.1Host: proxy-e-201863786916.southamerica-east1.run.appConnection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf],
+    "Payload": "Name": "TIM GCLOUD [01]",
+    "FLAG": "tim",
+    "Payload": "GET /app112 HTTP/1.1Host: proxy-e-201863786916.southamerica-east1.run.appConnection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com",
