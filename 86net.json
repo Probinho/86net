@@ -1,5 +1,5 @@
 {
-    "Version": "313",
+    "Version": "314",
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v313",
+            "Name": "86ИΞΓ v314",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.avclaro.com.br",
@@ -49,7 +49,7 @@
         {
             "Name": "🟣 VIVO GCLOUD [01]",
     "FLAG": "vivo",
-    "Payload": "GET /app112 HTTP/1.1\r\nHost: proxy-e-201863786916.southamerica-east1.run.app: Websocket\\n\\n",
+    "Payload": "GET /app116 HTTP/1.1\r\nHost: proxy-e-201863786916.southamerica-east1.run.app: Websocket\\n\\n",
     "SNI": "youtube.com",
     "TlsIP": "youtube.com",
     "ProxyIP": "youtube.com",
@@ -59,7 +59,7 @@
         {
             "Name": "🟣 VIVO GCLOUD [02]",
     "FLAG": "vivo",
-    "Payload": "GET /app112 HTTP/1.1\r\nHost: proxy-e-201863786916.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+    "Payload": "GET /app116 HTTP/1.1\r\nHost: proxy-e-201863786916.southamerica-east1.run.app\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com",
@@ -130,7 +130,7 @@
         {
             "Name": "TIM GCLOUD [01]",
     "FLAG": "tim",
-    "Payload": "GET /app112 HTTP/1.1Host: proxy-e-201863786916.southamerica-east1.run.appConnection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+    "Payload": "GET /app116 HTTP/1.1Host: proxy-e-201863786916.southamerica-east1.run.appConnection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com",
@@ -140,7 +140,7 @@
         {
             "Name": "TIM GCLOUD [02]",
     "FLAG": "tim",
-    "Payload": "GET /app112 HTTP/1.1Host: proxy-e-201863786916.southamerica-east1.run.appConnection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+    "Payload": "GET /app116 HTTP/1.1Host: proxy-e-201863786916.southamerica-east1.run.appConnection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com",
@@ -150,7 +150,7 @@
         {
             "Name": "TIM GCLOUD [03]",
     "FLAG": "tim",
-    "Payload": "GET /app112 HTTP/1.1Host: proxy-e-201863786916.southamerica-east1.run.appConnection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+    "Payload": "GET /app116 HTTP/1.1Host: proxy-e-201863786916.southamerica-east1.run.appConnection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com",
