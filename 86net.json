@@ -1,5 +1,5 @@
 {
-    "Version": "315",
+    "Version": "316",
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v315",
+            "Name": "86ИΞΓ v316",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.avclaro.com.br",
@@ -130,7 +130,7 @@
         {
             "Name": "TIM GCLOUD [01]",
     "FLAG": "tim",
-    "Payload": "GET /app116 HTTP/1.1Host: [rotate=e-600145068186.southamerica-east1.run.app;e-278334591847.southamerica-east1.run.app;e-974225611551.southamerica-east1.run.app]Connection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+    "Payload": "GET /app116 HTTP/1.1\nHost: [host]\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com",
@@ -140,7 +140,7 @@
         {
             "Name": "TIM GCLOUD [02]",
     "FLAG": "tim",
-    "Payload": "GET /app116 HTTP/1.1Host: [rotate=e-600145068186.southamerica-east1.run.app;e-278334591847.southamerica-east1.run.app;e-974225611551.southamerica-east1.run.app]Connection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+    "Payload": "GET /app116 HTTP/1.1\nHost: [host]\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com",
@@ -150,7 +150,7 @@
         {
             "Name": "TIM GCLOUD [03]",
     "FLAG": "tim",
-    "Payload": "GET /app116 HTTP/1.1Host: [rotate=e-600145068186.southamerica-east1.run.app;e-278334591847.southamerica-east1.run.app;e-974225611551.southamerica-east1.run.app]Connection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
+    "Payload": "GET /app116 HTTP/1.1\nHost: [host]\nConnection: Upgrade\nUpgrade: Websocket\nUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com",
