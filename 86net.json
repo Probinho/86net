@@ -1,5 +1,5 @@
 {
-    "Version": "316",
+    "Version": "317",
     "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL!",
     "Sms": "",
     "UrlUpdate": "https://probinho.github.io/86net/86net.json",
@@ -14,7 +14,7 @@
     ],
     "Servers": [
         {
-            "Name": "86ИΞΓ v316",
+            "Name": "86ИΞΓ v317",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "a.avclaro.com.br",
@@ -49,7 +49,7 @@
         {
             "Name": "🟣 VIVO GCLOUD [01]",
     "FLAG": "vivo",
-    "Payload": "GET /app116 HTTP/1.1\r\nHost: [rotate=e-600145068186.southamerica-east1.run.app;e-278334591847.southamerica-east1.run.app;e-974225611551.southamerica-east1.run.app]: Websocket\\n\\n",
+    "Payload": "GET /app116 HTTP/1.1Host: e-278334591847.southamerica-east1.run.appConnection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
     "SNI": "youtube.com",
     "TlsIP": "youtube.com",
     "ProxyIP": "youtube.com",
@@ -59,7 +59,7 @@
         {
             "Name": "🟣 VIVO GCLOUD [02]",
     "FLAG": "vivo",
-    "Payload": "GET /app116 HTTP/1.1\r\nHost: [rotate=e-600145068186.southamerica-east1.run.app;e-278334591847.southamerica-east1.run.app;e-974225611551.southamerica-east1.run.app]\r\nConnection: Upgrade\r\nUpgrade: Websocket\\n\\n",
+    "Payload": "GET /app116 HTTP/1.1Host: e-278334591847.southamerica-east1.run.appConnection: UpgradeUpgrade: WebsocketUser-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf][crlf]",
     "SNI": "www.googletagmanager.com",
     "TlsIP": "www.googletagmanager.com",
     "ProxyIP": "www.googletagmanager.com",
